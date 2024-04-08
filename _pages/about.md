@@ -16,8 +16,8 @@ I'm a Canadian AI graduate student pursuing my second M.Sc in Computer Science a
 
 ## 2) Interests 
 
-- Deep Reinforcement Learning
-- Representation Learning
+- Sciences and Engineering
+- Reinforcement Learning
 - Deep Learning
 - Robotics
 - BCIs
