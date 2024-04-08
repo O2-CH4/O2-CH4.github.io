@@ -1,10 +1,10 @@
 # main links links
 main:
-    - title: "Academic"
-    url: /academic/   
+    # - title: "Academic"
+    # url: /academic/   
     
-    - title: "Publications"
-    url: /publications/
+    # - title: "Publications"
+    # url: /publications/
 
   # - title: "Space"
   #   url: /teaching/    
