@@ -1,12 +1,12 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+    - title: "Academic"
+    url: /academic/   
+    
+    - title: "Publications"
+    url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
+  # - title: "Space"
   #   url: /teaching/    
     
   # - title: "Portfolio"
