@@ -1,11 +1,13 @@
 # main links links
 main:
 
+
+
+- title: "CV"
+    url: /cv/
+
 # - title: "Test"
 #     url: /test/
-
-# - title: "CV"
-#     url: /cv/
 
     # - title: "Academic"
     # url: /academic/  
