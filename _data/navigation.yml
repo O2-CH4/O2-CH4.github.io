@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "test"
-    url: /test/
+  - title: "Academic"
+    url: /Academic/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Space"
+    url: /Space/    
 
   - title: "Teaching"
     url: /teaching/    
