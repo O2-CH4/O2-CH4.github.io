@@ -11,10 +11,8 @@ author_profile: true
 - Grad-skipped one year
 - Rochebelle High School International Program (IB)
 - B.A Multidisciplinary (Laval University)
-- M.S Computer Science (Laval University / CERVO) (2022-2024) 
-    * Focus: Deep Learning for Motor BCI Decoding 
-- M.S Computer Science (UdeM/Mila) (2023-2024) 
-    * Focus: Representation Learning for Deep-RL agents
+- M.S Computer Science (Laval University / CERVO) 
+- M.S Computer Science (UdeM / Mila) 
  
 
 
