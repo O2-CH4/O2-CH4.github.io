@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Space"
-permalink: /Space/
+title: "Aerospace"
+permalink: /Aerospace/
 author_profile: true
 ---
 
