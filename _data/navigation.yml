@@ -3,11 +3,14 @@ main:
   - title: "Academic"
     url: /Academic/
 
-  - title: "Space"
-    url: /Space/    
-
   - title: "Research"
-    url: /Research/    
+    url: /Research/ 
+    
+  - title: "Aerospace"
+    url: /Aerospace/    
+
+  - title: "Files"
+    url: /Files/  
     
   # - title: "Portfolio"
   #   url: /portfolio/
