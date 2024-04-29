@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Aerospace"
-permalink: /Aerospace/
+title: "Gallery"
+permalink: /Gallery/
 author_profile: true
 ---
 
