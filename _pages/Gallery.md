@@ -18,6 +18,7 @@ Welcome to my gallery! Can you tell I like aerospace?
 
 
 ---
+---
 
 
 
@@ -29,6 +30,7 @@ Welcome to my gallery! Can you tell I like aerospace?
 
 
 
+---
 ---
 
 
@@ -42,6 +44,7 @@ Welcome to my gallery! Can you tell I like aerospace?
 
 
 ---
+---
 
 
 
@@ -50,10 +53,11 @@ Welcome to my gallery! Can you tell I like aerospace?
 <img width="186" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/b958a4d1-fb02-471e-ab61-f6d3bdf96217"> <img width="316" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/20ae0c63-e38f-406c-838d-863940714161"> <img width="315" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/87a2963c-3b4f-4c32-9873-399c2dbcea77"> <img width="315" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c66de1a5-9c73-4c44-873a-da2fea35d208"> <img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/22fd5204-9ed5-4da0-a3e0-00a09b2447a4">
 
 
-*Attented the IRG's 8th Interstellar Symposium, in collaboration with the International Academy of Astronautics and Breakthrough Initiatives, which took place in Montreal at McGill University. The talks and the people there were great, supplemented by a nice visit of the Canadian Space Agency (CSA) facilities during the last day.*
+*Attended the IRG's 8th Interstellar Symposium, in collaboration with the International Academy of Astronautics and Breakthrough Initiatives, which took place in Montreal at McGill University. The talks and the people there were great, supplemented by a nice visit of the Canadian Space Agency (CSA) facilities during the last day.*
 
 
 
+---
 ---
 
 
@@ -69,6 +73,8 @@ Welcome to my gallery! Can you tell I like aerospace?
 
 
 ---
+---
+
 
 
 ### Cross-USA Trip (2022)
