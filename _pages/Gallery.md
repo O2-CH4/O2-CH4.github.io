@@ -39,7 +39,7 @@ Welcome to my gallery! Here are some snapshots of key moments from my activities
 
 ### Cross-USA Trip (2023)
 
-<img width="184" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/822cdd99-e136-465b-af7c-60440ed6bb5c"> <img width="273" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/4f2385f9-315b-464c-8dd5-b0c613724def"> <img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/b0e7d890-b828-4527-b766-ea7024a95657"> <img width="185" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/ea6463fe-0833-432f-b22f-3328a90b1d24"> <img width="184" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/17d2c604-4b24-42d1-b0b4-667496fc5bf1">
+<img width="184" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/822cdd99-e136-465b-af7c-60440ed6bb5c"> <img width="312" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/e280d9b3-aa1d-426e-b4bc-8ddd13351ba0"> <img width="214" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/cdb5b770-7449-465d-8ed2-8b625e481db6"> <img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/b0e7d890-b828-4527-b766-ea7024a95657"> <img width="185" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/ea6463fe-0833-432f-b22f-3328a90b1d24"> <img width="184" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/17d2c604-4b24-42d1-b0b4-667496fc5bf1">
 
 
 *...*
