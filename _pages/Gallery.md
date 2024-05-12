@@ -5,8 +5,6 @@ permalink: /Gallery/
 author_profile: true
 ---
 
-# Gallery
-
 Welcome to my gallery! Here are some snapshots of key moments from my activities.
 
 ### United Kingdom Trip (2024)
