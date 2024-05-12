@@ -11,6 +11,7 @@ Welcome to my gallery! Here are some snapshots of key moments from my activities
 
 <img width="211" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/0dbe782b-835e-4e2c-ab57-b26d89f1d933"> <img width="359" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/5b7c30ca-3704-45a5-9dec-1c2ed7b63552"> <img width="212" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/3c74d587-348f-4e2d-9370-b9e5e2c9bfa2">
 
+*Caption: ...*
 
 
 
@@ -21,11 +22,49 @@ Welcome to my gallery! Here are some snapshots of key moments from my activities
 
 <img width="211" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c0aa305a-93b3-44e2-b849-4ed7f4ff5d4d"> <img width="363" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/d24b24b9-9c67-4c17-9686-ff18b9695256"> <img width="212" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/e006f8b3-5709-49ef-982b-aad2f4a8a386">
 
+*Caption: ...*
 
+
+
+
+
+### Cross-USA Trip (2022)
+
+<img width="224" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c7d599f4-5835-49bd-b525-e65a2458fe4f"> <img width="374" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/abe6f17f-aba8-43eb-a088-88eb15626520"> <img width="219" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/51457229-9d72-4388-9924-d9469a7dbc9d">
 
 
 
 *Caption: ...*
+
+
+
+### Cross-USA Trip (2023)
+
+<img width="184" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/822cdd99-e136-465b-af7c-60440ed6bb5c"> <img width="273" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/4f2385f9-315b-464c-8dd5-b0c613724def"> <img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/b0e7d890-b828-4527-b766-ea7024a95657"> <img width="185" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/ea6463fe-0833-432f-b22f-3328a90b1d24"> <img width="184" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/17d2c604-4b24-42d1-b0b4-667496fc5bf1">
+
+
+*Caption: ...*
+
+
+
+### Advanced Propulsion Conference — McGill (2023)
+
+<img width="186" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/b958a4d1-fb02-471e-ab61-f6d3bdf96217"> <img width="316" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/20ae0c63-e38f-406c-838d-863940714161"> <img width="315" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/87a2963c-3b4f-4c32-9873-399c2dbcea77"> <img width="315" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c66de1a5-9c73-4c44-873a-da2fea35d208"> <img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/22fd5204-9ed5-4da0-a3e0-00a09b2447a4">
+
+
+
+*Caption: I attented the IRG's 8th Interstellar Symposium, in collaboration with the International Academy of Astronautics and Breakthrough Initiatives, which took place in Montreal at McGill University. The talks and the people there were great, supplemented by a unique visit of the Canadian Space Agency (CSA) facilities during the last day.*
+
+
+
+
+
+### CERVO Brain Research Center
+
+<img width="266" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/16715e72-89bd-4848-ad1b-7cf9ac475d28"> <img width="207" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/f8243e2b-c5f9-4dc0-b9e6-6eb1661e4414">
+
+
+*Caption: Pictures taken during my time as a research graduate intern at the CERVO Brain Research Center.*
 
 
 
