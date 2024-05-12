@@ -5,7 +5,7 @@ permalink: /Gallery/
 author_profile: true
 ---
 
-Welcome to my gallery! Can you tell I like aerospace?
+Welcome to my gallery! Can you tell that I like aerospace?
 
 
 
@@ -18,7 +18,7 @@ Welcome to my gallery! Can you tell I like aerospace?
 
 
 ---
----
+
 
 
 
@@ -31,7 +31,7 @@ Welcome to my gallery! Can you tell I like aerospace?
 
 
 ---
----
+
 
 
 ### Cross-USA Trip (2023)
@@ -44,7 +44,7 @@ Welcome to my gallery! Can you tell I like aerospace?
 
 
 ---
----
+
 
 
 
@@ -58,7 +58,7 @@ Welcome to my gallery! Can you tell I like aerospace?
 
 
 ---
----
+
 
 
 
@@ -73,7 +73,7 @@ Welcome to my gallery! Can you tell I like aerospace?
 
 
 ---
----
+
 
 
 
