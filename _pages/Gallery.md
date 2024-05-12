@@ -5,7 +5,9 @@ permalink: /Gallery/
 author_profile: true
 ---
 
-Welcome to my gallery! Here are some snapshots of key moments from my activities.
+Welcome to my gallery! Can you tell I like aerospace?
+
+
 
 ### United Kingdom Trip (2024)
 
