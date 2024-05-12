@@ -7,10 +7,10 @@ author_profile: true
 
 ## 1) Education 
 
-- College Stanislas (Quebec)
-- Grad-skipped one year
-- Rochebelle High School International Program (IB)
-- B.A Multidisciplinary (Laval University)
+- Stanislas College Quebec
+- Grade-skipped one year
+- Rochebelle High School International Program
+- B.A Economics (Laval University)
 - M.S Computer Science (Laval University / CERVO Brain Research Center) 
 - M.S Computer Science (University of Montreal / Mila Quebec AI Institute) 
  
