@@ -13,7 +13,7 @@ Welcome to my gallery! Can you tell that I like aerospace?
 
 <img width="211" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/0dbe782b-835e-4e2c-ab57-b26d89f1d933"> <img width="359" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/5b7c30ca-3704-45a5-9dec-1c2ed7b63552"> <img width="212" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/3c74d587-348f-4e2d-9370-b9e5e2c9bfa2">
 
-*Mind the gap!*
+
 
 
 
@@ -26,7 +26,6 @@ Welcome to my gallery! Can you tell that I like aerospace?
 
 <img width="211" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c0aa305a-93b3-44e2-b849-4ed7f4ff5d4d"> <img width="363" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/d24b24b9-9c67-4c17-9686-ff18b9695256"> <img width="212" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/e006f8b3-5709-49ef-982b-aad2f4a8a386">
 
-*Fancy a cuppa?*
 
 
 
@@ -53,7 +52,7 @@ Welcome to my gallery! Can you tell that I like aerospace?
 <img width="186" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/b958a4d1-fb02-471e-ab61-f6d3bdf96217"> <img width="316" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/20ae0c63-e38f-406c-838d-863940714161"> <img width="315" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/87a2963c-3b4f-4c32-9873-399c2dbcea77"> <img width="315" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c66de1a5-9c73-4c44-873a-da2fea35d208"> <img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/22fd5204-9ed5-4da0-a3e0-00a09b2447a4">
 
 
-*Attended the IRG's 8th Interstellar Symposium, in collaboration with the International Academy of Astronautics and Breakthrough Initiatives, which took place in Montreal at McGill University. The talks and the people there were great, supplemented by a nice visit of the Canadian Space Agency (CSA) facilities during the last day.*
+*Attended the IRG's 8th Interstellar Symposium which took place in Montreal at McGill. The talks and the people there were great, supplemented by a nice visit of the Canadian Space Agency (CSA) during the last day.*
 
 
 
@@ -67,7 +66,6 @@ Welcome to my gallery! Can you tell that I like aerospace?
 <img width="266" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/16715e72-89bd-4848-ad1b-7cf9ac475d28"> <img width="207" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/f8243e2b-c5f9-4dc0-b9e6-6eb1661e4414">
 
 
-*Pictures taken during my time as a research graduate intern at the CERVO Brain Research Center.*
 
 
 
