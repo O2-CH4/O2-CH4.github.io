@@ -3,14 +3,14 @@ main:
   - title: "Academic"
     url: /Academic/
 
-  - title: "Research"
-    url: /Research/ 
+  # - title: "Research"
+  #   url: /Research/ 
     
   - title: "Gallery"
     url: /Gallery/    
 
-  - title: "Files"
-    url: /Files/  
+  # - title: "Files"
+  #   url: /Files/  
     
   # - title: "Portfolio"
   #   url: /portfolio/
