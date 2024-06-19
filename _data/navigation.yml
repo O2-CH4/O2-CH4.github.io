@@ -2,15 +2,9 @@
 main:
   - title: "Academic"
     url: /Academic/
-
-  # - title: "Research"
-  #   url: /Research/ 
     
   - title: "Gallery"
-    url: /Gallery/    
-
-  # - title: "Files"
-  #   url: /Files/  
+    url: /Gallery/     
     
   # - title: "Portfolio"
   #   url: /portfolio/
