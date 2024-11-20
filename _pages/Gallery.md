@@ -7,15 +7,6 @@ author_profile: true
 
 
 
-### Reinforcement Learning Conference (RLC -- 1st Edition) (2024)
-
-<img width="211" alt="image" src="![image](https://github.com/user-attachments/assets/f424185b-1e60-4682-bd34-23d369b2c1a4)"> <img width="359" alt="image" src="![image](https://github.com/user-attachments/assets/8ba48545-721d-484a-8393-1d1833440651)"> <img width="212" alt="image" src="![image](https://github.com/user-attachments/assets/0a960ef6-d476-416f-9e4e-5296716bf94b)">
-
-
-
-
-
----
 
 
 
