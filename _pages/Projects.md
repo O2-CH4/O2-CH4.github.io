@@ -5,6 +5,6 @@ permalink: /Projects/
 author_profile: true
 ---
 
-### Projects
+### Here are some older projects I’ve worked on over the years.
 
 ...
