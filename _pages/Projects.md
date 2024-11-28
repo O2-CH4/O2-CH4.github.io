@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Academic"
-permalink: /Academic/
+title: "Projects"
+permalink: /Projects/
 author_profile: true
 ---
 
 ### Projects
+
+...
