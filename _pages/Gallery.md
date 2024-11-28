@@ -10,7 +10,8 @@ author_profile: true
 
 ### RLC Conference 1st Edition -- UMass Amherst (2024)
 
-<img width="510" alt="image" src="https://github.com/user-attachments/assets/c1db2e94-24ad-4b1b-97b1-649fa29e5e65">
+<img width="510" alt="image" src="https://github.com/user-attachments/assets/c1db2e94-24ad-4b1b-97b1-649fa29e5e65"> <img width="510" alt="image" src="https://github.com/user-attachments/assets/496e9257-f798-447e-a3c5-3425e1a85682">
+
 
 
 
