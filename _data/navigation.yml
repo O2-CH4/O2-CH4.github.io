@@ -5,6 +5,10 @@ main:
     
   - title: "Gallery"
     url: /Gallery/     
+
+  - title: "Projects"
+    url: /Projects/
+
     
   # - title: "Portfolio"
   #   url: /portfolio/
