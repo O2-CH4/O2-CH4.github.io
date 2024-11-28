@@ -44,12 +44,11 @@ author_profile: true
 
 
 
-### Cross-USA Trip (2023)
+### Cross-USA Museum Trip (2023)
 
-<img width="184" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/822cdd99-e136-465b-af7c-60440ed6bb5c"> <img width="312" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/e280d9b3-aa1d-426e-b4bc-8ddd13351ba0"> <img width="214" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/cdb5b770-7449-465d-8ed2-8b625e481db6"> <img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/b0e7d890-b828-4527-b766-ea7024a95657"> <img width="185" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/ea6463fe-0833-432f-b22f-3328a90b1d24"> <img width="184" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/17d2c604-4b24-42d1-b0b4-667496fc5bf1">
+<img width="185" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/ea6463fe-0833-432f-b22f-3328a90b1d24"> <img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/b0e7d890-b828-4527-b766-ea7024a95657"> <img width="184" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/17d2c604-4b24-42d1-b0b4-667496fc5bf1">
 
 
-*Drove 20 000 km in 2 weeks (again) to visit more museums across the USA.*
 
 
 
@@ -58,12 +57,14 @@ author_profile: true
 
 
 
-### Advanced Propulsion Conference — McGill (2023)
+### IRG's 8th Interstellar Symposium — McGill/CSA (2023)
 
-<img width="186" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/b958a4d1-fb02-471e-ab61-f6d3bdf96217"> <img width="316" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/20ae0c63-e38f-406c-838d-863940714161"> <img width="315" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/87a2963c-3b4f-4c32-9873-399c2dbcea77"> <img width="315" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c66de1a5-9c73-4c44-873a-da2fea35d208"> <img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/22fd5204-9ed5-4da0-a3e0-00a09b2447a4">
+<img width="315" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c66de1a5-9c73-4c44-873a-da2fea35d208"> 
+<img width="316" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/20ae0c63-e38f-406c-838d-863940714161">
+<img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/22fd5204-9ed5-4da0-a3e0-00a09b2447a4">
 
 
-*Attended the IRG's 8th Interstellar Symposium, which took place in Montreal (McGill). The talks and the people there were great, supplemented by a nice visit of the Canadian Space Agency (CSA) during the last day.*
+
 
 
 
@@ -86,13 +87,12 @@ author_profile: true
 
 
 
-### Cross-USA Trip (2022)
+### Cross-USA Museum Trip (2022)
 
 <img width="224" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c7d599f4-5835-49bd-b525-e65a2458fe4f"> <img width="374" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/abe6f17f-aba8-43eb-a088-88eb15626520"> <img width="219" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/51457229-9d72-4388-9924-d9469a7dbc9d">
 
 
 
-*Drove 20 000 km in 2 weeks to visit 20-30 aerospace/tech/science museums across the USA.*
 
 
 
