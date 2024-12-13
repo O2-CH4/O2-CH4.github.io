@@ -12,7 +12,8 @@ Here are some of the projects I’ve worked on over the years, mostly as part of
 ### Avoiding Collapses in Non-Contrastive SSL Methods
 Investigated how recent non-contrastive self-supervised learning (SSL) methods prevent collapse and maximize representation information without negative pairs. Focused on architectural changes and loss regularizations enabling high information content in representations.
 
-
+---
+---
 
 ### Neural Decoding from Primary Motor Cortex
 
@@ -23,16 +24,21 @@ Investigated how recent non-contrastive self-supervised learning (SSL) methods p
 - **Kinematics Decoding**: Developed a pipeline to decode kinematic targets from intra-cortical neural recordings using deep recurrent networks. Led a team of research students in creating a codebase for signal processing, dataset generation (customizable by parameters such as temporal resolution and window length), and decoder training.
 
 
+---
+---
+
 
 ### Inductor Magnetic Energy Estimation Based on Surrogate Models
 Explored ML/DL models as fast surrogates to approximate mappings made by Finite-Element Analysis (FEA) for evaluating inductor designs. Used a proprietary dataset of 100,000 samples to predict magnetic energy based on design topology, reducing evaluation time drastically.
 
-
+---
+---
 
 ### Simulation and Optimization of Wood Drying through Deep Reinforcement Learning
 Developed a simulator using OpenAI Gym and Simpy to optimize wood drying processes with a Deep-RL agent. Employed PPO with heuristic-guided reinforcement learning to improve resource allocation and demonstrated potential for industrial process optimization.
 
-
+---
+---
 
 ### Neural Combinatorial Solver using Reinforcement Learning
 
