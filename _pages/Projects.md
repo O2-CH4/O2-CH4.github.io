@@ -10,6 +10,7 @@ author_profile: true
 ---
 
 ### Avoiding Collapses in Non-Contrastive SSL Methods
+
 Investigated how recent non-contrastive self-supervised learning (SSL) methods prevent collapse and maximize representation information without negative pairs. Focused on architectural changes and loss regularizations enabling high information content in representations.
 
 ---
@@ -25,26 +26,31 @@ Investigated how recent non-contrastive self-supervised learning (SSL) methods p
 ---
 
 ### Inductor Magnetic Energy Estimation Based on Surrogate Models
+
 Explored ML/DL models as fast surrogates to approximate mappings made by Finite-Element Analysis (FEA) for evaluating inductor designs. Used a proprietary dataset of 100,000 samples to predict magnetic energy based on design topology, reducing evaluation time drastically.
 
 ---
 
 ### Simulation and Optimization of Wood Drying through Deep Reinforcement Learning
+
 Developed a simulator using OpenAI Gym and Simpy to optimize wood drying processes with a Deep-RL agent. Employed PPO with heuristic-guided reinforcement learning to improve resource allocation and demonstrated potential for industrial process optimization.
 
 ---
 
 ### Neural Combinatorial Solver using Reinforcement Learning
+
 Compared end-to-end neural solvers with traditional methods for solving combinatorial optimization problems. Focused on Weapon-Target Assignment (WTA) using a graph attention network and reinforcement learning to learn optimal policies minimizing destructive target values.
 
 ---
 
 ### Critical Temperature Prediction for Superconducting Materials
+
 Used deep neural networks to predict critical temperatures of superconductors based on features like atomic weights and entropy. Leveraged a dataset of 21,263 materials to map material properties to laboratory-measured critical temperatures.
 
 ---
 
 ### Trade-offs Between Model-Free and Model-Based Reinforcement Learning Methods
+
 Explored trade-offs between model-free and model-based RL approaches, with a focus on implementing and understanding MuZero, highlighting its ability to combine planning and learning efficiently.
 
 ---
