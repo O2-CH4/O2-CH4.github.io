@@ -51,4 +51,4 @@ Explored trade-offs between model-free and model-based RL approaches, with a foc
 ---
 
 ### Theory Behind ML Models + Code Implementations
-Created an 80-page document summarizing machine learning models with theoretical explanations and Python code implementations. Compiled from 20 books and various papers, it served as a learning resource for friends preparing for ML courses.
+Created an 80-page document summarizing machine learning models with theoretical explanations and Python code implementations. Compiled from 20 books and various papers, it served as a learning resource for friends.
