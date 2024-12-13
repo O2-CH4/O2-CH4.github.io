@@ -5,12 +5,11 @@ permalink: /Projects/
 author_profile: true
 ---
 
-### Here are some of the projects I’ve worked on over the years, mostly as part of graduate courses or during my free time.
+#### Here are some of the projects I’ve worked on over the years, mostly as part of graduate courses or during my free time.
 
 ---
 
 ### Avoiding Collapses in Non-Contrastive SSL Methods
-
 Investigated how recent non-contrastive self-supervised learning (SSL) methods prevent collapse and maximize representation information without negative pairs. Focused on architectural changes and loss regularizations enabling high information content in representations.
 
 ---
