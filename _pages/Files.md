@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Files"
+title: "CV Files"
 permalink: /Files/
 author_profile: true
 ---
