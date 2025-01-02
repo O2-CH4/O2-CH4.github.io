@@ -10,14 +10,14 @@ Here are some projects I have worked on over the years, often carried out as par
 
 
 
-### State Representation Learning for Deep Reinforcement Learning [PDF](https://o2-ch4.github.io/files/Thesis_SRL.pdf)
+### State Representation Learning for Deep Reinforcement Learning ([PDF](https://o2-ch4.github.io/files/Thesis_SRL.pdf))
 Thesis version of my survey article on State Representation Learning for Deep Reinforcement Learning.
 
 
 ---
 
 
-### Avoiding Collapses in Non-Contrastive SSL Methods [PDF](https://o2-ch4.github.io/files/Report_SSL.pdf)
+### Avoiding Collapses in Non-Contrastive SSL Methods ([PDF](https://o2-ch4.github.io/files/Report_SSL.pdf))
 Investigated how recent non-contrastive self-supervised learning (SSL) methods prevent collapse and maximize representation information without negative pairs. Focused on architectural changes and loss regularizations enabling high information content in representations.
 
 ---
