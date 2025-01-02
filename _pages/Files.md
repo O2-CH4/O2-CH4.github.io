@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Here are some projects I have worked on over the years, often carried out as part of my graduate classes or research activities
+Here are some projects I have worked on over the years, often carried out as part of my classes or research activities.
 
 
 
