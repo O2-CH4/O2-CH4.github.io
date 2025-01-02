@@ -9,6 +9,7 @@ author_profile: true
 Here are some projects I have worked on over the years, often carried out as part of my classes or research activities.
 
 
+---
 
 ### State Representation Learning for Deep Reinforcement Learning ([PDF](https://o2-ch4.github.io/files/Thesis_SRL.pdf))
 Thesis version of my survey article on State Representation Learning for Deep Reinforcement Learning.
@@ -28,7 +29,7 @@ Investigated how recent non-contrastive self-supervised learning (SSL) methods p
 
 - **Force Decoding**: Trained neural decoders to predict applied force on a knob sensor from rat motor cortex activity using different LSTM architectures and loss formulation. 
 
-- **Kinematics Decoding**: Developed a pipeline to decode kinematic targets from intra-cortical neural recordings using deep recurrent networks. Led a team of research students in creating a codebase for signal processing, dataset generation (customizable by parameters such as temporal resolution and window length), and decoder training. (PDF Proprietary)
+- **Kinematics Decoding**: Developed a pipeline to decode kinematic targets from intra-cortical neural recordings using deep recurrent networks. Led a team of research students in creating a codebase for signal processing, dataset generation (customizable by parameters such as temporal resolution and window length), and decoder training.
 
 
 ---
