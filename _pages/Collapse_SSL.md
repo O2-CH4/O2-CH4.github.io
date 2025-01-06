@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## [Avoiding Collapses in Non-Contrastive SSL Methods](https://o2-ch4.github.io/files/Report_SSL.pdf) 
+## Avoiding Collapses in Non-Contrastive SSL Methods [PDF](https://o2-ch4.github.io/files/Report_SSL.pdf) 
 
 - **Context**: Theoretical Principles for Deep Learning (Graduate Course) (UdeM/Mila)
 
