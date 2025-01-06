@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Neural Solver for the Weapon-Target Assignment: A Deep-RL Approach [(PDF)](https://o2-ch4.github.io/files/WTA_Report.pdf) 
+## Neural Solver for Weapon-Target Assignments: A Deep-RL Approach [(PDF)](https://o2-ch4.github.io/files/WTA_Report.pdf) 
 
 - **Overview**: Together with two other students, I conducted a project examining the trade-offs involved in using end-to-end neural solvers compared to traditional methods for solving combinatorial optimization problems
 
