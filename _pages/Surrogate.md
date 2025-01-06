@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Inductor Magnetic Energy Estimation Based on a MLP Surrogate Model [(PDF)](https://o2-ch4.github.io/files/Surrogate_Inductor.pdf) 
+## Inductor Magnetic Energy Estimation using Surrogate Models [(PDF)](https://o2-ch4.github.io/files/Surrogate_Inductor.pdf) 
 
 
 - **Context**: This project, undertaken as part of a graduate course in machine learning, explored the use of machine learning (ML) and deep learning (DL) methods to create fast and accurate surrogate models for evaluating the magnetic energy of inductor designs.
