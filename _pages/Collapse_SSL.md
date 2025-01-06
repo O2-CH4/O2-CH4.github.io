@@ -8,7 +8,7 @@ author_profile: true
 
 ## Avoiding Collapses in Non-Contrastive SSL Methods [(PDF)](https://o2-ch4.github.io/files/Report_SSL.pdf) 
 
-- **Context**: Theoretical Principles for Deep Learning ([Graduate Course](https://mitliagkas.github.io/ift6085-dl-theory-class/), UdeM/Mila)
+- **Context**: Theoretical Principles for Deep Learning (Graduate Course, UdeM/Mila)
 
 - **Overview**: Non-Contrastive Self-Supervised Learning is emerging as a promising paradigm for acquiring prior knowledge from large quantities of unlabeled multi-modal data. This approach could enable future AI agents to gain a grounded understanding of their environment and System-2 reasoning capabilities. For this project, I investigated the properties of recent non-contrastive methods, focusing on how they maximize the information content of their representations to prevent various forms of collapse.
 
