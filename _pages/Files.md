@@ -55,11 +55,6 @@ Used deep neural networks to predict critical temperatures of superconductors ba
 
 ---
 
-### Trade-offs Between Model-Free and Model-Based Reinforcement Learning Methods
-Explored trade-offs between model-free and model-based RL approaches, with a focus on implementing and understanding MuZero, highlighting its ability to combine planning and learning efficiently.
-
----
-
 ### Theory Behind ML Models + Code Implementations ([PDF](https://o2-ch4.github.io/files/ML_Notebooks.pdf))
 Created an 80-page document summarizing machine learning models with theoretical explanations and Python code implementations. Compiled from 20 books and various papers, it also served as a learning resource for friends.
 
@@ -68,5 +63,16 @@ Created an 80-page document summarizing machine learning models with theoretical
 
 ### Theory Scientific Computing in Julia + Code Implementations ([PDF](https://o2-ch4.github.io/files/Julia_Notebooks.pdf))
 Created a 27-page document on scientific computing with Julia, covering mathematical modeling, numerical methods (ODEs, PDEs, SDEs), and hybrid techniques like PINNs, with practical examples and Julia code implementations.
+
+---
+
+### Trade-offs Between Model-Free and Model-Based Reinforcement Learning Methods
+Explored trade-offs between model-free and model-based RL approaches, with a focus on implementing and understanding MuZero, highlighting its ability to combine planning and learning efficiently.
+
+---
+---
+---
+
+### More Documents:
 
 
