@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Simulation and Optimization of Wood Drying Operations via Deep Reinforcement Learning [(PDF)](https://o2-ch4.github.io/files/Wood_Drying.pdf) 
+## Simulation and Optimization of Wood Drying Operations via Reinforcement Learning [(PDF)](https://o2-ch4.github.io/files/Wood_Drying.pdf) 
 
 - **Overview**: This research project, conducted in partnership with a North American wood drying company, explored the use of Deep Reinforcement Learning (Deep-RL) combined with a detailed simulator (Digital Twin) for optimizing industrial processes. The project aimed to evaluate whether advanced learning algorithms could improve the efficiency of resource allocation in industrial operations, providing actionable insights for real-world applications.
 
