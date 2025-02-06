@@ -25,7 +25,7 @@ I am greatly interested in Machine Learning (ML) and Deep Reinforcement Learning
 
 
 - **Theoretical Challenges:**
-My interests extend to the theoretical aspects of learning and intelligence, particularly in improving sample efficiency and optimizing performance under constrained resource conditions.
+My interests extend to the theoretical and fundamental aspects of learning/intelligence, notably achieveing greater sample efficiency, or optimizing performance under constrained resource conditions.
 
 
 
