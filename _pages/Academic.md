@@ -12,34 +12,41 @@ During this time, I collaborated with Dr. Ethier on a unique class project that 
 
 To further specialize in AI research, I pursued a second M.Sc. at the Mila AI Institute, focusing on Representation Learning for Deep Reinforcement Learning. As I complete this degree, I am still looking to deepen my knowledge in various areas and explore opportunities in academia or industry, applying AI to practical challenges.
 
-Here’s how you can make your Education and Graduate Courses sections more visually appealing and structured in Markdown while keeping them professional and readable.
 
-1) Education
+
+
+
+## 1) Education 
 
 📌 Academic Background:
-	•	🎓 M.S. in Computer Science – University of Montreal / Mila Quebec AI Institute
-	•	🎓 M.S. in Computer Science – Laval University / CERVO Brain Research Center
-	•	🎓 B.A. in Economics – Laval University
-	•	🏫 Rochebelle High School – International Program
-	•	🏫 Stanislas College Quebec – Grade-skipped one year
+	• 🎓 M.S. in Computer Science – University of Montreal / Mila Quebec AI Institute
+	• 🎓 M.S. in Computer Science – Laval University / CERVO Brain Research Center
+	• 🎓 B.A. in Economics – Laval University
+	• 🏫 Rochebelle High School – International Program
+	• 🏫 Stanislas College Quebec – Grade-skipped one year
 
-2) Graduate Courses
+
+
+
+
+
+## 2) Graduate Courses
 
 📚 Completed Graduate Coursework:
-	•	🔢 Mathematical Foundations & Optimization:
+	• 🔢 Mathematical Foundations & Optimization:
 	•	Information Theory
 	•	Combinatorial Optimization
-	•	🤖 Artificial Intelligence & Learning Systems:
+	• 🤖 Artificial Intelligence & Learning Systems:
 	•	Machine Learning
 	•	Reinforcement Learning
 	•	Representation Learning
 	•	Theoretical Principles of Deep Learning
 	•	Robot Learning
 	•	Towards AGI: Scaling, Emergence, Alignment
-	•	🏭 Applied AI & Simulation:
+	• 🏭 Applied AI & Simulation:
 	•	Design & Simulation of Intelligent Systems for Industry 4.0
 	•	3D Perception for Autonomous Vehicles
 	•	Natural Language Processing
-	•	🧬 Interdisciplinary & Emerging Topics:
+	• 🧬 Interdisciplinary & Emerging Topics:
 	•	Bioinstrumentation & Biomedical Microsystems
 	•	Quantum Computing
