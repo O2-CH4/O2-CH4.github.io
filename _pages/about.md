@@ -21,7 +21,7 @@ I am currently seeking internship or job opportunities for summer 2025 and beyon
 ## 2) Research Interests
 
 - **Sensory Understanding, Reasoning, and Control:**
-I am interested in ML/DRL techniques for learning complex control policies from high-dimensional information. This includes developing representation learning methods from past interactions, raw multimodal data (text, images, videos), or noisy sensor streams. I am also particularly interested in multi-step reasoning (e.g., predictive world modeling) and hierarchical control for generating action plans across different time scales, enabling agents and robots to solve downstream tasks efficiently.
+I am greatly interested in Machine Learning (ML) and Deep Reinforcement Learning (DRL) for the learning of complex control policies from high-dimensional information. This includes developing representation learning methods from past interactions, raw multimodal data (text, images, videos), or noisy sensor streams. I am also particularly interested in multi-step reasoning (e.g., predictive world modeling) and hierarchical control for generating action plans across different time scales, enabling agents and robots to solve downstream tasks efficiently.
 
 
 - **Theoretical Challenges:**
