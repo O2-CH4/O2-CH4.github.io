@@ -14,7 +14,7 @@ To further specialize in AI research, I pursued a second M.Sc. at the Mila AI In
 
 
 ---
----
+
 
 
 ## 1) 📌 Academic Background:   
@@ -27,7 +27,6 @@ To further specialize in AI research, I pursued a second M.Sc. at the Mila AI In
 
 
 
----
 ---
 
 
