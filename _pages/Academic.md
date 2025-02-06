@@ -17,7 +17,7 @@ To further specialize in AI research, I pursued a second M.Sc. at the Mila AI In
 
 
 
-## 1) 📌 Academic Background:   
+## 1) Academic Background 📌   
 
 - 🎓 M.S. in Computer Science – University of Montreal / Mila Quebec AI Institute  
 - 🎓 M.S. in Computer Science – Laval University / CERVO Brain Research Center  
@@ -33,7 +33,7 @@ To further specialize in AI research, I pursued a second M.Sc. at the Mila AI In
 
 
 
-## 2) 📚 Completed Graduate Coursework:  
+## 2) Completed Graduate Coursework 📚  
 
 - 🔢 Mathematical Foundations & Optimization:  
 • Information Theory  
