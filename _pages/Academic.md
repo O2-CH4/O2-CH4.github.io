@@ -33,20 +33,24 @@ To further specialize in AI research, I pursued a second M.Sc. at the Mila AI In
 ## 2) Graduate Courses
 
 📚 Completed Graduate Coursework:  
-	• 🔢 Mathematical Foundations & Optimization:  
-	•	Information Theory  
-	•	Combinatorial Optimization  
-	• 🤖 Artificial Intelligence & Learning Systems:  
-	•	Machine Learning  
-	•	Reinforcement Learning  
-	•	Representation Learning  
-	•	Theoretical Principles of Deep Learning  
-	•	Robot Learning  
-	•	Towards AGI: Scaling, Emergence, Alignment  
-	• 🏭 Applied AI & Simulation:  
-	•	Design & Simulation of Intelligent Systems for Industry 4.0  
-	•	3D Perception for Autonomous Vehicles  
-	•	Natural Language Processing  
-	• 🧬 Interdisciplinary & Emerging Topics:  
-	•	Bioinstrumentation & Biomedical Microsystems  
-	•	Quantum Computing  
+
+- 🔢 Mathematical Foundations & Optimization:  
+• Information Theory  
+• Combinatorial Optimization  
+
+- 🤖 Artificial Intelligence & Learning Systems:  
+• Machine Learning  
+• Reinforcement Learning  
+• Representation Learning  
+• Theoretical Principles of Deep Learning  
+• Robot Learning  
+• Towards AGI: Scaling, Emergence, Alignment  
+
+- 🏭 Applied AI & Simulation:  
+• Design & Simulation of Intelligent Systems for Industry 4.0  
+• 3D Perception for Autonomous Vehicles  
+• Natural Language Processing  
+
+- 🧬 Interdisciplinary & Emerging Topics:  
+• Bioinstrumentation & Biomedical Microsystems  
+• Quantum Computing  
