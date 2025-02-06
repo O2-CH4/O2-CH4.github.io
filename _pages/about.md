@@ -28,7 +28,7 @@ My interests extend to the theoretical and fundamental aspects of learning/intel
 
 
 - **Applied Domains:**
-I am also drawn to applications of ML/DRL in scientific discovery and HPC-driven numerical simulations (e.g., CFD, FEA), such as through surrogate models. In robotics, I find the integration of DRL in complex simulators (e.g., digital twins) promising, where sim-to-real and real-to-sim techniques are critical for reducing reliance on behavioral cloning. More broadly, I am interested in end-to-end learning for combinatorial optimization and operations research (e.g., resource allocation) via RL or supervised learning, as well as ML applications for control in Brain-Computer Interfaces (BCIs) and aerospace systems.
+I am also drawn to applications of ML/DRL in scientific discovery and HPC-driven numerical simulations (e.g., CFD, FEA), such as through surrogate models. In robotics, I find the integration of DRL in complex simulators (e.g., digital twins) promising, where sim-to-real and real-to-sim techniques are critical for reducing reliance on behavioral cloning. More broadly, I am also interested by the end-to-end learning of solvers for combinatorial optimization and operations research problems (e.g., resource allocation), as well as innovative AI applications for control in Brain-Computer Interfaces (BCIs) and aerospace systems.
 
 
 
