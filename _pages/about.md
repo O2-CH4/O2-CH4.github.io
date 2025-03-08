@@ -18,43 +18,23 @@ Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](ht
 
 ## 2) Research Interests
 
-• Sensory Understanding, Reasoning, and Control: \\
-	- Representation learning from multimodal and high-dimensional data (text, images, videos, noisy sensor streams).
-	- Deep Reinforcement Learning for complex policy learning and control.
-	• Predictive world modeling, multi-step reasoning, and hierarchical action planning across different time scales.
+- Sensory Understanding, Reasoning, and Control:
+• Representation learning from multimodal and high-dimensional data (text, images, videos, noisy sensor streams).
+• Deep Reinforcement Learning for complex policy learning and control.
+• Predictive world modeling, multi-step reasoning, and hierarchical action planning across different time scales.
    
-• Theoretical Challenges:
-	• Fundamental aspects of learning and intelligence.
-	• Achieving greater sample efficiency and optimizing performance under resource constraints.
+- Theoretical Challenges:
+• Fundamental aspects of learning and intelligence.
+• Achieving greater sample efficiency and optimizing performance under resource constraints.
    
-• Applied Problems:
-	• AI-enhanced scientific simulations (e.g., CFD/FEA using surrogate models).
-	• Robotics learning in parallel simulators (digital twins), especially sim-to-real and real-to-sim challenges.
-	• End-to-end learning for combinatorial optimization (e.g., resource allocation in Operations Research).
-	• AI-driven control for and aerospace applications and Brain-Computer Interfaces (BCIs).
+- Applied Problems:
+• AI-enhanced scientific simulations (e.g., CFD/FEA using surrogate models).
+• Robotics learning in parallel simulators (digital twins), especially sim-to-real and real-to-sim challenges.
+• End-to-end learning for combinatorial optimization (e.g., resource allocation in Operations Research).
+• AI-driven control for and aerospace applications and Brain-Computer Interfaces (BCIs).
 
 
-\section*{Research Interests}
-\begin{itemize}
-    \item \textbf{Sensory Understanding, Reasoning, and Control}
-    \begin{itemize}
-        \item Representation learning from multimodal data (text, images, videos, sensor streams)
-        \item Deep Reinforcement Learning for policy learning and control
-        \item Predictive world modeling, multi-step reasoning, hierarchical action planning
-    \end{itemize}
-    \item \textbf{Theoretical Challenges}
-    \begin{itemize}
-        \item Fundamental aspects of learning and intelligence
-        \item Sample efficiency and performance optimization under resource constraints
-    \end{itemize}
-    \item \textbf{Applied Problems}
-    \begin{itemize}
-        \item AI-enhanced scientific simulations (CFD/FEA surrogate models)
-        \item Robotics with simulators (digital twins, sim-to-real/real-to-sim)
-        \item Combinatorial optimization (Operations Research)
-        \item AI-driven control (Aerospace, Brain-Computer Interfaces)
-    \end{itemize}
-\end{itemize}
+
 
 ## 3) Personal Interests
 
