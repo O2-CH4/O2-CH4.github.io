@@ -25,13 +25,14 @@ Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](ht
 
 **- Theoretical Challenges:**  
 • Fundamental aspects of learning and intelligence  
-• Achieving greater sample efficiency and optimizing performance under resource constraints  
+• Achieving better sample efficiency and generalization  
+• Optimizing target performance under resource constraints  
 
 **- Applied Problems:**  
-• AI-enhanced scientific simulations (e.g., CFD/FEA using surrogate models)  
-• Robotics learning in simulators, plus sim-to-real and real-to-sim challenges  
-• End-to-end learning for combinatorial optimization (e.g., resource allocation in O.R)  
-• AI-driven control for aerospace applications and Brain-Computer Interfaces (BCIs)  
+• AI-enhanced scientific simulations (e.g., CFD/FEA with surrogate models)  
+• Robotics learning in complex simulators, sim2real and real2sim challenges  
+• End-to-end learning for combinatorial problems (e.g., ressource allocation)  
+• AI-driven control for aerospace applications and Brain-Computer Interfaces  
 
 
 ## 3) Personal Interests
