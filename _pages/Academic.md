@@ -34,7 +34,7 @@ I am now completing my second M.Sc. at the Mila AI Institute, where i specialize
 
 
 
-## 2) Completed Graduate Coursework:  
+## 2) Graduate Coursework:  
 
 - 🔢 Mathematical Foundations & Optimization:  
 • Information Theory  
