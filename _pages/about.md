@@ -9,28 +9,29 @@ redirect_from:
 
 ## 1) Overview 
 
-I am a Canadian AI graduate student completing my second M.Sc. in Computer Science (AI) at the University of Montreal and the [Mila AI Institute](https://mila.quebec/en). My research focused on Representation Learning for Deep Reinforcement Learning under the supervision of [Pablo Samuel Castro](https://mila.quebec/en/directory/pablo-samuel-castro). I am **currently seeking internship** or job opportunities for summer 2025 and beyond, focusing on meaningful work, regardless of salary expectations.
+I am a Canadian AI graduate student completing my second M.Sc. in Computer Science (AI) at the University of Montreal and the [Mila AI Institute](https://mila.quebec/en). My research focused on Representation Learning for Deep Reinforcement Learning under the supervision of [Pablo Samuel Castro](https://mila.quebec/en/directory/pablo-samuel-castro). I am **currently seeking internship** or job opportunities for summer 2025 and beyond.
 
 
-Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Christian Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en), where I applied deep learning to decode intra-cortical signals for motor brain-computer interfaces (BCIs). My first M.Sc., also in Computer Science (AI), was completed at Laval University. 
+Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Christian Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en), where I applied deep learning to decode intra-cortical signals for motor brain-computer interfaces (BCIs). 
 
 
 
 ## 2) Research Interests
 
-- **Sensory Understanding, Reasoning, and Control:**
-I am greatly interested in Machine Learning (ML) and Deep Reinforcement Learning (DRL) for the learning of complex control policies from high-dimensional data. This includes developing representation learning methods from past interactions, raw multimodal data (text, images, videos), or noisy sensor streams. I am also particularly interested in multi-step reasoning (e.g., predictive world modeling) and hierarchical control for generating action plans across different time scales, enabling agents and robots to solve downstream tasks efficiently.
-
-
-- **Theoretical Challenges:**
-My interests extend to the theoretical and fundamental aspects of learning/intelligence, notably achieveing greater sample efficiency, or optimizing performance under constrained resource conditions.
-
-
-
-- **Applied Domains:**
-I am also drawn to applications of ML/DRL in scientific discovery and HPC-driven numerical simulations (e.g., CFD, FEA), such as surrogate models. In robotics, I see great potential in training DRL agents in complex simulators (e.g., digital twins) and consider sim-to-real and real-to-sim techniques essential. More broadly, I am also interested by the end-to-end learning of solvers for combinatorial optimization problems common in Operations Research (e.g., resource allocation), as well as innovative AI applications for control in Brain-Computer Interfaces (BCIs) and aerospace systems.
-
-
+•	Sensory Understanding, Reasoning, and Control:
+	  •	Representation learning from multimodal and high-dimensional data (text, images, videos, noisy sensor streams).
+	  •	Deep Reinforcement Learning for complex policy learning and control.
+	  •	Predictive world modeling, multi-step reasoning, and hierarchical action planning across different time scales.
+   
+•	Theoretical Challenges:
+	  •	Fundamental aspects of learning and intelligence.
+	  •	Achieving greater sample efficiency and optimizing performance under resource constraints.
+   
+•	Applied Problems:
+	  •	AI-enhanced scientific simulations (e.g., CFD/FEA using surrogate models).
+	  •	Robotics learning in parallel simulators (digital twins), especially sim-to-real and real-to-sim challenges.
+	  •	End-to-end learning for combinatorial optimization (e.g., resource allocation in Operations Research).
+	  •	AI-driven control for and aerospace applications and Brain-Computer Interfaces (BCIs).
 
 
 ## 3) Personal Interests
