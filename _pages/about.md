@@ -34,6 +34,28 @@ Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](ht
 	• AI-driven control for and aerospace applications and Brain-Computer Interfaces (BCIs).
 
 
+\section*{Research Interests}
+\begin{itemize}
+    \item \textbf{Sensory Understanding, Reasoning, and Control}
+    \begin{itemize}
+        \item Representation learning from multimodal data (text, images, videos, sensor streams)
+        \item Deep Reinforcement Learning for policy learning and control
+        \item Predictive world modeling, multi-step reasoning, hierarchical action planning
+    \end{itemize}
+    \item \textbf{Theoretical Challenges}
+    \begin{itemize}
+        \item Fundamental aspects of learning and intelligence
+        \item Sample efficiency and performance optimization under resource constraints
+    \end{itemize}
+    \item \textbf{Applied Problems}
+    \begin{itemize}
+        \item AI-enhanced scientific simulations (CFD/FEA surrogate models)
+        \item Robotics with simulators (digital twins, sim-to-real/real-to-sim)
+        \item Combinatorial optimization (Operations Research)
+        \item AI-driven control (Aerospace, Brain-Computer Interfaces)
+    \end{itemize}
+\end{itemize}
+
 ## 3) Personal Interests
 
 I enjoy visiting technology, science, and space museums while traveling, having driven over 1.5 times the Earth’s circumference across my last three U.S. road trips for that purpose. I have a broad interest in reading across many subjects and enjoy practicing various physical sports.
