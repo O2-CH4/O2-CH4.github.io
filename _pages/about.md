@@ -9,7 +9,7 @@ redirect_from:
 
 ## 1) Overview 
 
-I am a Canadian AI graduate student completing my second M.Sc. in Computer Science (AI) at the University of Montreal and the [Mila AI Institute](https://mila.quebec/en). My research focused on Representation Learning for Deep Reinforcement Learning under the supervision of [Pablo Samuel Castro](https://mila.quebec/en/directory/pablo-samuel-castro). Previously, I was a Research Graduate Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Christian Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en), where I applied deep learning to decode intra-cortical signals for motor Brain-Computer Interaces (BCIs). Currently **seeking internships** for summer 2025. 
+I am a Canadian AI graduate student completing my second M.Sc. in Computer Science (AI) at the University of Montreal and the [Mila AI Institute](https://mila.quebec/en). My research focused on Representation Learning for Deep Reinforcement Learning under the supervision of [Pablo Samuel Castro](https://mila.quebec/en/directory/pablo-samuel-castro). Previously, I was a Research Graduate Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Christian Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en), where I applied deep learning to decode intra-cortical signals for motor Brain-Computer Interaces (BCIs). I'm currently **seeking internships** for summer 2025. 
 
 ---
 
