@@ -18,22 +18,20 @@ Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](ht
 
 ## 2) Research Interests
 
-- Sensory Understanding, Reasoning, and Control:
-• Representation learning from multimodal and high-dimensional data (text, images, videos, noisy sensor streams)
-• Deep Reinforcement Learning for complex policy learning and control
-• Predictive world modeling, multi-step reasoning, and hierarchical action planning across different time scales
-   
-- Theoretical Challenges:
-• Fundamental aspects of learning and intelligence.
-• Achieving greater sample efficiency and optimizing performance under resource constraints.
-   
-- Applied Problems:
-• AI-enhanced scientific simulations (e.g., CFD/FEA using surrogate models).
-• Robotics learning in parallel simulators (digital twins), especially sim-to-real and real-to-sim challenges.
-• End-to-end learning for combinatorial optimization (e.g., resource allocation in Operations Research).
-• AI-driven control for and aerospace applications and Brain-Computer Interfaces (BCIs).
+**- Sensory Understanding, Reasoning, and Control:**  
+• Representation learning from multimodal and high-dimensional data (text, images, videos, noisy sensor streams)  
+• Deep Reinforcement Learning for complex policy learning and control  
+• Predictive world modeling, multi-step reasoning, and hierarchical action planning across different time scales  
 
+**- Theoretical Challenges:**  
+• Fundamental aspects of learning and intelligence  
+• Achieving greater sample efficiency and optimizing performance under resource constraints  
 
+**- Applied Problems:**  
+• AI-enhanced scientific simulations (e.g., CFD/FEA using surrogate models)  
+• Robotics learning in parallel simulators (digital twins), especially sim-to-real and real-to-sim challenges  
+• End-to-end learning for combinatorial optimization (e.g., resource allocation in Operations Research)  
+• AI-driven control for aerospace applications and Brain-Computer Interfaces (BCIs)  
 
 
 ## 3) Personal Interests
