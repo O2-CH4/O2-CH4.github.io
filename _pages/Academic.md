@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 
-I began my academic journey studying Economics and Financial Analysis, initially driven by interests in asset pricing and hedge fund strategies. After completing my degree in under three years (2021), I recognized the growing significance of AI through independent study and decided to shift toward computer science. This led me to pursue an M.Sc. in AI at Laval University, where I aimed to work on innovative class projects when possible.
+Initially interested in Economics and Financial Analysis (asset pricing, hedge fund strategies), I transitioned to AI after graduating in under three years (2021). During my first M.Sc. at Laval University, I collaborated with Dr. Ethier on a project applying deep learning and recurrent neural networks (RNNs) to decode rodent kinematics from intra-cortical neural signals at the CERVO Brain Research Center.
 
-During this time, I collaborated with Dr. Ethier on a unique class project that led to an internship at the CERVO Brain Research Center. My work involved applying deep learning and computer vision to develop an end-to-end pipeline for decoding rodent kinematics information from raw intra-cortical recordings, integrating signal processing, dataset generation, and recurrent neural networks (RNNs) training.
+I am now completing my second M.Sc. at the Mila AI Institute, where i specialized myself in Representation Learning for Deep Reinforcement Learning. Through 12 graduate AI courses across my two master’s programs, I’ve established a strong theoretical and practical foundation that enables me to effectively approach diverse AI problems.
 
-To further specialize in AI research, I pursued a second M.Sc. at the Mila AI Institute, focusing on Representation Learning for Deep Reinforcement Learning. Across both master’s programs, I successfully completed 12 graduate courses in AI, building a strong foundation in both theoretical concepts and practical skills. As I complete this degree, I am still looking to deepen my knowledge in various areas and explore opportunities in academia or industry.
+
+
 
 
 ---
