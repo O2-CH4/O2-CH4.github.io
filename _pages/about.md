@@ -19,9 +19,9 @@ Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](ht
 ## 2) Research Interests
 
 **- Sensory Understanding, Reasoning, and Control:**  
-• Representation learning from multimodal and high-dimensional data.
+• Representation learning from multimodal and high-dimensional data  
 • Deep Reinforcement Learning for complex policy learning and control  
-• Predictive world modeling, multi-step reasoning, and hierarchical planning.
+• Predictive world modeling, multi-step reasoning, and hierarchical planning  
 
 **- Theoretical Challenges:**  
 • Fundamental aspects of learning and intelligence  
