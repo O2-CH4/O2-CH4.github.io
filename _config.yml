@@ -21,7 +21,7 @@ repository               : #
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PB_FL_25_3.png"
+  avatar           : "PL_FL_25_3.png"
   name             : "Ayoub E"
   pronouns         : # example: "she/her"  
   bio              : ""
