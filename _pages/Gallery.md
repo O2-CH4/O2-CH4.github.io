@@ -12,11 +12,12 @@ author_profile: true
 
 ### USA Again (2025)
 
-![image](https://github.com/user-attachments/assets/1d520b36-942b-4b47-a676-61406d2b5c17)
+<img width="347" alt="image" src="https://github.com/user-attachments/assets/6527cae2-e8c3-409a-87ca-46614007883f" />
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/ed932849-377c-4b82-a691-22f061fd7c03" />
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/370d7dda-ede8-4eea-917e-a9edf52afae0" />
 
-![image](https://github.com/user-attachments/assets/abe8e070-acd4-41f6-9059-973b7ff72b85)
 
-![image](https://github.com/user-attachments/assets/39cba4aa-c037-49c0-bd93-42799ff2393e)
+
 
 
 
