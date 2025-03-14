@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Initially interested in Economics and Financial Analysis (asset pricing, hedge fund strategies), I transitioned to AI after graduating in under three years (2021). During my first M.Sc. at Laval University, I worked on decoding motor information (e.g., kinematics, behavior, grip force) from intracortical neural signals in rodents using deep learning techniques at the CERVO Brain Research Center. I now (almost) completed my second M.Sc. at the Mila AI Institute, where i specialized myself in Representation Learning for Deep Reinforcement Learning.
+Initially interested in Economics and Financial Analysis (asset pricing, hedge fund strategies), I transitioned to AI after graduating in under three years (2021). During my first M.Sc. at Laval University, I applied deep learning, signal processing, and computer vision techniques at the CERVO Brain Research Center to decode motor information (e.g., kinematics, behavior, grip force) from intracortical neural recordings in rodents. I now (almost) completed my second M.Sc. at the Mila AI Institute, where i specialized myself in Representation Learning for Deep Reinforcement Learning.
 
 
 ## 1) Background:  
