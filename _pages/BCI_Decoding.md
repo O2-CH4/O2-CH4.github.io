@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Neural Decoding from Primary Motor Cortex Signals [(PDF)](https://o2-ch4.github.io/files/Report_SSL.pdf) 
+## Neural Decoding from Primary Motor Cortex Signals [(PDF)](https://o2-ch4.github.io/files/BCI_B_Decoding.pdf) 
 
 This three-part project focused on decoding neural activity from the primary motor cortex (M1) of rats to extract behavioral, force, and kinematic information. It began as a graduate class project that earned top marks, continued independently during vacation, and culminated in an internship offered to further develop these ideas.
 
