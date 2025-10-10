@@ -29,7 +29,9 @@ I am a Canadian AI graduate student completing my second M.Sc. in Computer Scien
 • AI-enhanced scientific simulations (e.g., CFD/FEA with surrogate models)  
 • Robotics learning in complex simulators, sim2real and real2sim challenges  
 • End-to-end learning for combinatorial problems (e.g., ressource allocation)  
-• AI-driven control for aerospace applications and Brain-Computer Interfaces  
+• AI-based decoding and adaptation methods for future Brain–Computer Interfaces  
+• Autonomous aircraft & spacecraft control using hybrid RL/MPC-based approaches  
+• Multi-Agent RL for Policymaking Applications (e.g., space debris policy design)  
 
 ---
 
