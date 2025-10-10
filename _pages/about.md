@@ -31,7 +31,7 @@ I am a Canadian AI graduate student completing my second M.Sc. in Computer Scien
 • End-to-end learning for combinatorial problems (e.g., ressource allocation)  
 • AI-based decoding and adaptation methods for future Brain–Computer Interfaces  
 • Autonomous aircraft & spacecraft control using hybrid RL/MPC-based approaches  
-• Multi-Agent RL for Policymaking Applications (e.g., space debris policy design/simulation)  
+• Multi-Agent RL for Policymaking Research Applications (e.g., space debris issue)  
 
 ---
 
