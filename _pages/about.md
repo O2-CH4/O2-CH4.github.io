@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Canadian AI graduate student finishing my second M.Sc. in Computer Science at the [Mila – Quebec AI Institute](https://mila.quebec/en). My master’s research focused on representation learning for deep reinforcement learning with [Pablo Samuel Castro](https://mila.quebec/en/directory/pablo-samuel-castro) as my advisor, with whom I co-authored a [survey](https://arxiv.org/pdf/2506.17518) published in *TMLR*. Separately from my master’s work, I additionally collaborate with Aaron Courville, Hugo Larochelle, Juan Duque, and other Mila researchers on multi-agent reinforcement learning in social-dilemma settings, for example through opponent-shaping methods. Our [first work](https://openreview.net/pdf?id=ex93RVyP5r) in this direction studies cooperation and stability in social-dilemma settings under climate and economic constraints.
 
-On the industry side, I had the chance this year to be involved in deep learning and reinforcement learning projects for engineering R&D at Bombardier Aerospace and Bentley Systems. At Bombardier, I developed AI/data pipelines for flight-test data to train DNNs for indirect airspeed estimation and performance modeling. At Bentley, I worked on exploring ways to apply deep reinforcement learning to their specific problem of automated civil asset labeling on engineering drawings. Overall, I’m grateful for these opportunities, which showed me both the challenges and potential of large-scale AI and automation adoption across engineering tasks in the design cycle.
+On the industry side, I had the chance this year to be involved in deep learning and reinforcement learning projects for engineering R&D at Bombardier Aerospace and Bentley Systems.
 
 
 ---
