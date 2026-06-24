@@ -7,39 +7,57 @@ redirect_from:
   - /about.html
 ---
 
-## 1) Overview 
+## 1) About me
 
-I am a Canadian AI graduate student finishing my second M.Sc. in Computer Science at the [Mila – Quebec AI Institute](https://mila.quebec/en/directory/ayoub-echchahed). My master’s research focused on representation learning for deep reinforcement learning, advised by [Pablo Samuel Castro](https://mila.quebec/en/directory/pablo-samuel-castro), with whom I co-authored a [survey](https://arxiv.org/pdf/2506.17518) published in *TMLR*. In parallel, I have collaborated with Aaron Courville, Hugo Larochelle, Juan Duque, and other Mila researchers on multi-agent reinforcement learning in social-dilemma settings, with our [recent work](https://openreview.net/pdf?id=ex93RVyP5r) analyzing how opponent-shaping methods can promote cooperation and stability under climate and economic constraints. In the context of my first master’s, I also worked on deep learning for brain–computer interface (BCI) research at the [CERVO Brain Research Center](https://cervo.ulaval.ca/en/), where I developed end-to-end neural decoding pipelines from raw intracortical signals. On the industry side, I recently worked on deep learning and reinforcement learning projects in R&D at Bombardier Aerospace and Bentley Systems.
+I am a Canadian AI graduate interested in the science and engineering of intelligence, learning, and advanced autonomy.
 
+I recently completed my second master’s degree at [Mila – Quebec AI Institute](https://mila.quebec/en/directory/ayoub-echchahed), where I worked on state representation learning for deep reinforcement learning with [Pablo Samuel Castro](https://mila.quebec/en/directory/pablo-samuel-castro). This work led to a [survey](https://arxiv.org/pdf/2506.17518) published in *Transactions on Machine Learning Research*.
 
+I also contributed to multi-agent reinforcement learning research at Mila, studying cooperation and opponent-shaping methods in social dilemma settings. This work was published at ICLR 2026.
 
-
----
-
-## 2) Research Interests
-
-**- Sensing, Reasoning, and Control:**  
-• Representation learning from multimodal and high-dimensional data  
-• Deep Reinforcement Learning for complex policy learning and control  
-• Predictive world modeling, multi-step reasoning, and hierarchical planning  
-
-**- Theoretical Challenges:**  
-• Fundamental aspects of learning and intelligence  
-• Achieving better sample efficiency and generalization  
-• Optimizing target performance under resource constraints  
-
-**- Applied Problems:**  
-• AI-enhanced scientific simulations (e.g., CFD/FEA with surrogate models)  
-• Robotics learning in complex simulators, sim2real and real2sim challenges  
-• End-to-end learning for combinatorial problems (e.g., ressource allocation)  
-• AI-based decoding and adaptation methods for future Brain–Computer Interfaces  
-• Autonomous aircraft & spacecraft control using hybrid RL/MPC-based approaches  
-• Multi-Agent RL for Policymaking Research  and Applications (e.g., space debris issue)  
+Before that, I worked on brain-computer interface decoding at the [CERVO Brain Research Center](https://cervo.ulaval.ca/en/), using deep learning pipelines to connect intracortical neural activity with animal movement. In industry, I applied machine learning and reinforcement learning to engineering R&D problems at Bombardier Aerospace and Bentley Systems.
 
 ---
 
-## 3) Personal Interests
+## 2) Research interests
 
-I enjoy visiting technology, science, and space museums while traveling, having driven over 1.5 times the Earth’s circumference across my last three U.S. road trips for that purpose. I have a broad interest in reading across many subjects and enjoy practicing various physical sports.
+I am broadly interested in building robust, safe, and increasingly autonomous systems that can operate in complex real-world environments, including spacecraft, aircraft, drones, maritime systems, ground vehicles, and robotics.
 
+My interests span the autonomy stack, from perception and representation learning to world models, planning, decision-making, and control. I am particularly interested in:
 
+- Representation learning
+- Reinforcement learning
+- World models
+- Planning and temporal abstraction
+- Uncertainty-aware decision-making
+- Anomaly detection and fault recovery
+- Multi-agent systems and swarm autonomy
+- Scientific machine learning
+- Trajectory optimization
+- Efficient AI hardware and computing architectures
+
+More broadly, I am interested in how intelligent systems can learn useful abstractions from high-dimensional multimodal observations, leverage prior experience, reason over long horizons, discover subgoals, coordinate with other agents, and adapt safely under uncertainty.
+
+---
+
+## 3) Publications
+
+### A Survey of State Representation Learning for Deep Reinforcement Learning
+
+*Transactions on Machine Learning Research*, 2025  
+Ayoub Echchahed, Pablo Samuel Castro  
+
+[Paper](https://arxiv.org/pdf/2506.17518)
+
+Comprehensive survey of state representation learning methods, evaluation protocols, and open challenges in deep reinforcement learning.
+
+### Towards Climate Investment Policies Informed by Reinforcement Learning
+
+*International Conference on Learning Representations*, 2026  
+Juan Duque, Razvan C., Ayoub Echchahed, Aaron Courville, Hugo Larochelle  
+
+[Paper](https://openreview.net/pdf?id=ex93RVyP5r)
+
+Investigation of reinforcement learning approaches for climate-economic systems and sustainable investment policy design.
+
+---
