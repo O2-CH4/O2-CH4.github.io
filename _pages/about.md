@@ -1,5 +1,3 @@
-SAVING
-
 ---
 permalink: /
 title: "Welcome!"
