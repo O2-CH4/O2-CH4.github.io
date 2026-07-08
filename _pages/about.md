@@ -50,7 +50,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 *Selected projects mostly from graduate coursework, R&D experiences, or personal work.*
 
-<div style="height: 0.6rem;"></div>
+<div style="height: 0.1rem;"></div>
 
 ### ▸ *Study - Examining the Road Ahead to Fully Autonomous Systems Across Domains* *(Current)*
 
@@ -58,7 +58,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 * **Components:** Studying the current state of autonomous systems, the main characteristics of fully autonomous systems, and the technical gaps that must be bridged to reach robust, reliable, and increasingly independent autonomy.
 * **collaborations:** Feel free to message me for details or if interested to contribute or advise in any way!
 
-<div style="height: 0.8rem;"></div>
+<div style="height: 0.3rem;"></div>
 
 
 
@@ -75,7 +75,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 * **Research direction:** I see this area as open for many improvements in learned backup sensing, sensor redundancy, anomaly detection, and aircraft-state validation. I would be glad to continue research or R&D in this direction, especially for future autonomous aircraft and other safety-critical systems. Open to collaboration and discussion.
 
 
-<div style="height: 0.8rem;"></div>
+<div style="height: 0.2rem;"></div>
 
 ### ▸ *Weight-Space Representation Learning and FDM Learning for Parameter-Space “Warping”* *(Mila, 2025)*
 
@@ -83,7 +83,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 * **Scaling Bottleneck:** We focused specifically on the scaling challenges of parameter-space “warping,” a term nicely suggested by Lucas in reference to warp-drive propulsion: the idea of moving through a model’s training trajectory by making rapid, non-local jumps through parameter space rather than progressing only step by step.
 * Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAAAJ&hl=fr), under the guidance of [Damien Scieur](https://scholar.google.com/citations?user=hNscQzgAAAAJ&hl=fr), [Boris Knyazev](https://scholar.google.com/citations?user=Dp9VFB0AAAAJ&hl=en), and [Alexia Jolicoeur-Martineau](https://scholar.google.com/citations?user=0qytQ1oAAAAJ&hl=en).
 
-<div style="height: 0.8rem;"></div>
+<div style="height: 0.2rem;"></div>
 
 ### ▸ *Selected Graduate Technical Projects* *(2021–2024)*
 
@@ -96,7 +96,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 * **Model-Free vs. Model-Based RL**: Studied planning-based RL methods, including MuZero.
 * **ML Theory Notebooks (2020)**: Built notebooks combining ML theory, statistics, and Python.
 
-<div style="height: 0.8rem;"></div>
+<div style="height: 0.2rem;"></div>
 
 ### ▸ *Algorithmic Trading and Investment Automation Platform* *(2020–Present)*
 
