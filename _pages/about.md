@@ -50,7 +50,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 *Selected projects from graduate coursework, research, industry R&D, personal exploration, and MVP-style startup ideas.*
 
-<div style="height: 0.7rem;"></div>
+<div style="height: 1rem;"></div>
 
 ### Study: Examining the Road Ahead to Fully Autonomous Systems Across Domains *(Current)*
 
@@ -58,13 +58,13 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 - Studying the current state of autonomous systems, the main characteristics of fully autonomous systems, and the technical gaps that must be bridged to reach robust, reliable, and increasingly independent autonomy.
 - Open to collaborations. Feel free to message me.
 
-<div style="height: 1rem;"></div>
+<div style="height: 1.5rem;"></div>
 
 ### Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)*
 
 - Developed deep learning models for synthetic air-data sensing and flight-test data analysis in safety-critical aerospace systems.
 
-<div style="height: 1rem;"></div>
+<div style="height: 1.5rem;"></div>
 
 ### Weight-Space Representation Learning and FDM Learning for Parameter-Space “Warping” *(Mila, 2025)*
 
@@ -72,7 +72,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 - Investigated scaling issue of parameter-space “warping” (s/o Lucas for the name), which if successful, can enable rapid, non-local jumps along model training trajectories.
 - Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAAAJ&hl=fr), under the guidance of [Damien Scieur](https://scholar.google.com/citations?user=hNscQzgAAAAJ&hl=fr), [Boris Knyazev](https://scholar.google.com/citations?user=Dp9VFB0AAAAJ&hl=en), and [Alexia Jolicoeur-Martineau](https://scholar.google.com/citations?user=0qytQ1oAAAAJ&hl=en).
 
-<div style="height: 1rem;"></div>
+<div style="height: 1.5rem;"></div>
 
 ### Selected Graduate Technical Projects *(2021–2024)*
 
@@ -86,7 +86,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 - **ML Theory Notebooks (2020) -** Built Jupyter notebooks combining ML theory, statistics, and Python implementations.
 - **More to come...**
 
-<div style="height: 1rem;"></div>
+<div style="height: 1.5rem;"></div>
 
 ### Algorithmic Trading and Investment Automation Platform *(2020–Present)*
 
