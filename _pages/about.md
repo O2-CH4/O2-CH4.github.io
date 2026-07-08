@@ -96,7 +96,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 * **Superconducting Critical Temperature Prediction (2021)**: Predicted material critical temperatures with neural networks.
 * **Model-Free vs. Model-Based RL**: Studied planning-based RL methods, including MuZero.
 * **ML Theory Notebooks (2020)**: Built notebooks combining ML theory, statistics, and Python.
-* **More to come...**
+* *More to come...*
 
 <div style="height: 0.8rem;"></div>
 
