@@ -81,9 +81,9 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 - **Surrogate Models for EM Simulation (2022) -** Learned neural surrogates for finite-element simulations of magnetic components.
 - **Deep RL for Wood Drying (2022) -** Built a PPO-based simulator for industrial process optimization.
 - **Neural Combinatorial Optimization (2022) -** Applied graph neural networks and reinforcement learning to weapon-target assignment.
-- **Superconducting Critical Temperature Prediction (2021):** Predicted material critical temperatures using deep neural networks.
-- **Model-Free vs. Model-Based RL:** Studied planning-based reinforcement learning methods, including MuZero.
-- **ML Theory Notebooks (2020):** Built Jupyter notebooks combining ML theory, statistics, and Python implementations.
+- **Superconducting Critical Temperature Prediction (2021) -** Predicted material critical temperatures using deep neural networks.
+- **Model-Free vs. Model-Based RL -** Studied planning-based reinforcement learning methods, including MuZero.
+- **ML Theory Notebooks (2020) -** Built Jupyter notebooks combining ML theory, statistics, and Python implementations.
 
 <div style="height: 0.7rem;"></div>
 
