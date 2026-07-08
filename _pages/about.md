@@ -48,7 +48,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 ## 5) Selected Projects
 
-*Selected projects from graduate coursework, research, industry R&D, personal exploration, and MVP-style startup ideas.*
+*Selected projects mostly from graduate coursework, R&D experiences, or personal work.*
 
 <div style="height: 0.6rem;"></div>
 
