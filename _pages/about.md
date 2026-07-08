@@ -16,7 +16,7 @@ Previously, I conducted deep learning research for brain-computer interfaces in 
 
 ## 2) Research Interests
 
-**Focus:** I am interested in understanding and improving the core building blocks of intelligent autonomous systems: perception, representation learning, world modeling, planning, control, uncertainty, adaptation, and multi-agent coordination.
+**Focus:** I am interested in understanding and improving the core building blocks of intelligent autonomous systems: perception, representation learning, world modeling, planning, control, uncertainty, adaptation, and multi-agent, etc.
 
 **Direction:** I am particularly interested in how autonomous systems can learn useful abstractions from high-dimensional sensory observations and action spaces, leverage memory and prior knowledge, generalize across multiple tasks, estimate uncertainty, and use predictive world models to plan and adapt efficiently in dynamic environments.
 
