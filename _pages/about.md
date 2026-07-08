@@ -52,7 +52,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 <div style="height: 1rem;"></div>
 
-### *Study - Examining the Road Ahead to Fully Autonomous Systems Across Domains *(Current)**
+### ▸ *Study - Examining the Road Ahead to Fully Autonomous Systems Across Domains *(Current)**
 
 - Reviewing and formalizing the core building blocks of autonomy across domains, including humanoid robots, drones, road vehicles, aircraft, spacecraft, aircraft networks, spacecraft constellations, and maritime systems.
 - Studying the current state of autonomous systems, the main characteristics of fully autonomous systems, and the technical gaps that must be bridged to reach robust, reliable, and increasingly independent autonomy.
@@ -60,13 +60,13 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 <div style="height: 1.5rem;"></div>
 
-### *Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)**
+### ▸ *Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)**
 
 - Developed deep learning models for synthetic air-data sensing and flight-test data analysis in safety-critical aerospace systems.
 
 <div style="height: 1.5rem;"></div>
 
-### *Weight-Space Representation Learning and FDM Learning for Parameter-Space “Warping” *(Mila, 2025)**
+### ▸ *Weight-Space Representation Learning and FDM Learning for Parameter-Space “Warping” *(Mila, 2025)**
 
 - Explored whether learned representations of neural network weights, combined with forward dynamics models (FDMs) trained on trajectories of raw and/or encoded parameters across optimization steps, could help capture reusable training dynamics and accelerate model training across tasks, architectures, and settings.
 - Investigated scaling issue of parameter-space “warping” (s/o Lucas for the name), which if successful, can enable rapid, non-local jumps along model training trajectories.
@@ -74,7 +74,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 <div style="height: 1.5rem;"></div>
 
-### *Selected Graduate Technical Projects *(2021–2024)**
+### ▸ *Selected Graduate Technical Projects *(2021–2024)**
 
 - **Non-Contrastive SSL Collapse (2023) -** Studied mechanisms preventing representation collapse in self-supervised learning.
 - **Neural Decoding from M1 (2023, CERVO) -** Developed deep learning pipelines for behavior, force, and kinematics BCI decoding.
@@ -88,7 +88,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 <div style="height: 1.5rem;"></div>
 
-### *Algorithmic Trading and Investment Automation Platform *(2020–Present)**
+### ▸ *Algorithmic Trading and Investment Automation Platform *(2020–Present)**
 
 - Developed algorithms and a prototype platform for automating and sharing investment and trading strategies across asset classes.
 - The project is still active: DM if interested or want more information!
