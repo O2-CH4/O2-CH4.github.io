@@ -79,5 +79,5 @@ Representative projects completed primarily through graduate coursework and rese
 - **Neural Combinatorial Optimization (2022):** Applied graph neural networks and reinforcement learning to weapon-target assignment.
 - **Superconducting Critical Temperature Prediction (2021):** Predicted material critical temperatures using deep neural networks.
 - **Model-Free vs. Model-Based Reinforcement Learning:** Studied planning-based reinforcement learning methods, including MuZero.
-- **Machine Learning Theory & Implementations (2020):** Compiled theoretical notes and Python/Julia implementations of classical machine learning algorithms.
+- **ML Theory & Implementations (2020):** Compiled theoretical notes and Python/Julia implementations of classical machine learning algorithms.
 - **Multi-Asset Investment Strategy Automation Platform (2020-2021):** Designed and developed a platform for creating, automating, backtesting, and sharing quantitative multi-asset investment strategies and portfolio management algorithms. Project still active.
