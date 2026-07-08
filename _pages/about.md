@@ -61,17 +61,28 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 <div style="height: 0.8rem;"></div>
 
-### ▸ *Deep Learning for Flight-Test Data* *(Bombardier Aerospace, 2025)*
 
-- Developed deep learning models for synthetic air-data sensing and flight-test data analysis in safety-critical aerospace systems.
+
+### ▸ *Deep Learning for Virtual Sensing Development* *(Bombardier Aerospace, 2025)*
+
+* **Overview:** Worked on deep virtual sensors for synthetic air-data sensing and flight-test data analysis in safety-critical aerospace systems, supervised by Dr. Emmanuel Germanine. The work used deep learning on real aircraft flight-test data, where signals are noisy, variable across flight phases, and limited by real aircraft operations.
+
+* **Importance:** The motivation was to build stronger backup sensing for aircraft state estimation. In aviation, wrong or inconsistent air-data measurements can quickly affect pilot awareness, automation behavior, and control decisions, as seen in accidents such as Air France 447 and the Boeing 737 MAX accidents. This becomes even more important for future aircraft such as flying wings and blended-wing bodies, where safe flight may depend strongly on onboard estimation and control.
+
+* **Technical details:** Built pipelines using real flight-test data rather than simulation, so the models had to learn from limited flight envelopes. The work included signal cleaning, flight-phase detection, feature selection, train/test splitting, preprocessing, postprocessing, evaluation by flight phase, feature analysis, and ablations over architectures, losses, hyperparameters, model size, dataset size, filtering choices, input signals, aircraft type, and flight-test conditions.
+
+* **Key distinction:** Unlike many related approaches that rely on GPS, frontal/static pressure data, or full-envelope simulation, we avoided these assumptions to make the pipeline closer to a real degraded-sensing case. This made the task harder, but more relevant to aircraft that must detect bad information, use backup sensors, validate aircraft state, and keep operating safely when some signals are missing or unreliable.
+
+* **Research direction:** I see this area as open for many improvements in learned backup sensing, sensor redundancy, anomaly detection, and aircraft-state validation. I would be glad to continue research or R&D in this direction, especially for future autonomous aircraft and other safety-critical systems. Open to collaboration and discussion.
+
 
 <div style="height: 0.8rem;"></div>
 
 ### ▸ *Weight-Space Representation Learning and FDM Learning for Parameter-Space “Warping”* *(Mila, 2025)*
 
-- Explored whether learned representations of neural network weights, combined with forward dynamics models (FDMs) trained on trajectories of raw and/or encoded parameters across optimization steps, could help capture reusable training dynamics and accelerate model training across tasks, architectures, and settings.
-- We focused specifically on the scaling challenges of parameter-space “warping,” a term nicely suggested by Lucas in reference to warp-drive propulsion: the idea of moving through a model’s training trajectory by making rapid, non-local jumps through parameter space rather than progressing only step by step.
-- Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAAAJ&hl=fr), under the guidance of [Damien Scieur](https://scholar.google.com/citations?user=hNscQzgAAAAJ&hl=fr), [Boris Knyazev](https://scholar.google.com/citations?user=Dp9VFB0AAAAJ&hl=en), and [Alexia Jolicoeur-Martineau](https://scholar.google.com/citations?user=0qytQ1oAAAAJ&hl=en).
+Explored whether learned representations of neural network weights, combined with forward dynamics models (FDMs) trained on trajectories of raw and/or encoded parameters across optimization steps, could help capture reusable training dynamics and accelerate model training across tasks, architectures, and settings.
+We focused specifically on the scaling challenges of parameter-space “warping,” a term nicely suggested by Lucas in reference to warp-drive propulsion: the idea of moving through a model’s training trajectory by making rapid, non-local jumps through parameter space rather than progressing only step by step.
+Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAAAJ&hl=fr), under the guidance of [Damien Scieur](https://scholar.google.com/citations?user=hNscQzgAAAAJ&hl=fr), [Boris Knyazev](https://scholar.google.com/citations?user=Dp9VFB0AAAAJ&hl=en), and [Alexia Jolicoeur-Martineau](https://scholar.google.com/citations?user=0qytQ1oAAAAJ&hl=en).
 
 <div style="height: 0.8rem;"></div>
 
@@ -91,5 +102,5 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 ### ▸ *Algorithmic Trading and Investment Automation Platform* *(2020–Present)*
 
-- Developed algorithms and a prototype platform for automating and sharing investment and trading strategies across asset classes.
-- The project is still active: DM if interested or want more information!
+Developed algorithms and a prototype platform for automating and sharing investment and trading strategies across asset classes.
+The project is still active: DM if interested or want more information!
