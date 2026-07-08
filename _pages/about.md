@@ -81,6 +81,3 @@ Representative projects completed primarily through graduate coursework and rese
 - **Model-Free vs. Model-Based Reinforcement Learning:** Studied planning-based reinforcement learning methods, including MuZero.
 - **Machine Learning Theory & Implementations (2020):** Compiled theoretical notes and Python/Julia implementations of classical machine learning algorithms.
 - **Multi-Asset Investment Strategy Automation Platform (2020-2021):** Designed and developed a platform for creating, automating, backtesting, and sharing quantitative multi-asset investment strategies and portfolio management algorithms. Project still active.
-
-
-<img width="468" height="630" alt="image" src="https://github.com/user-attachments/assets/a1ba3a69-3bf3-4bba-88f7-eb05595cf050" />
