@@ -66,11 +66,12 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 <div style="height: 0.7rem;"></div>
 
-### Weight-Space Representation Learning and Forward Dynamics for Parameter-Space “Warping” *(Mila, 2025)*
+### Weight-Space Representation Learning and FDM Learning for Parameter-Space “Warping” *(Mila, 2025)*
 
-- Explored weight-space representation learning and forward latent dynamics models for predicting neural network training trajectories.
-- Studied parameter-space “warping” as a way to enable rapid, non-local movement through model training trajectories.
-- Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAAAJ&hl=fr) under the guidance of [Damien Scieur](https://scholar.google.com/citations?user=hNscQzgAAAAJ&hl=fr), [Boris Knyazev](https://scholar.google.com/citations?user=Dp9VFB0AAAAJ&hl=en), and [Alexia Jolicoeur-Martineau](https://scholar.google.com/citations?user=0qytQ1oAAAAJ&hl=en).
+- Explored whether learned representations of neural network weights, combined with forward dynamics models (FDMs), could help accelerate model training.
+- Studied FDMs trained on trajectories of raw and/or encoded parameters across optimization steps, with the goal of capturing reusable training dynamics across tasks, architectures, and settings.
+- Investigated parameter-space “warping” (s/o Lucas) as a way to enable rapid, non-local jumps along model training trajectories.
+- Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAAAJ&hl=fr), under the guidance of [Damien Scieur](https://scholar.google.com/citations?user=hNscQzgAAAAJ&hl=fr), [Boris Knyazev](https://scholar.google.com/citations?user=Dp9VFB0AAAAJ&hl=en), and [Alexia Jolicoeur-Martineau](https://scholar.google.com/citations?user=0qytQ1oAAAAJ&hl=en).
 
 <div style="height: 0.7rem;"></div>
 
