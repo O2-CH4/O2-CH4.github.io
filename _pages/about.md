@@ -31,13 +31,13 @@ My long-term goal is to contribute to increasingly capable, robust, safe, and tr
 
 *Transactions on Machine Learning Research, 2025*  
 **Ayoub E., Pablo Samuel Castro**  
-**Overview:** Comprehensive survey of state representation learning methods, evaluation protocols, and open challenges in deep reinforcement learning.
+Comprehensive survey of state representation learning methods, evaluation protocols, and open challenges in deep reinforcement learning.
 
 ### [Towards Climate Investment Policies Informed by Reinforcement Learning](#)
 
 *International Conference on Learning Representations, 2026*  
 **Juan Duque, Razvan C., Ayoub E., Aaron Courville, Hugo Larochelle**  
-**Overview:** Study on opponent-shaping multi-agent reinforcement learning for cooperation in climate-economic social dilemmas.
+Study on opponent-shaping multi-agent reinforcement learning for cooperation in climate-economic social dilemmas.
 
 ---
 
@@ -77,15 +77,15 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 ### ▸ *Selected Graduate Technical Projects* *(2021–2024)*
 
-- **Non-Contrastive SSL Collapse (2023)**: Studied mechanisms preventing representation collapse in self-supervised learning.
-- **Neural Decoding from M1 (2023, CERVO)**: Developed deep learning pipelines for behavior, force, and kinematics BCI decoding.
-- **Surrogate Models for EM Simulation (2022)**: Learned neural surrogates for finite-element simulations of magnetic components.
-- **Deep RL for Wood Drying (2022)**: Built a PPO-based simulator for industrial process optimization.
-- **Neural Combinatorial Optimization (2022)**: Applied graph neural networks and reinforcement learning to weapon-target assignment.
-- **Superconducting Critical Temperature Prediction (2021)**: Predicted material critical temperatures using deep neural networks.
-- **Model-Free vs. Model-Based RL**: Studied planning-based reinforcement learning methods, including MuZero.
-- **ML Theory Notebooks (2020)**: Built Jupyter notebooks combining ML theory, statistics, and Python implementations.
-- **More to come...**
+**Non-Contrastive SSL Collapse (2023)**: Studied mechanisms preventing representation collapse in self-supervised learning.
+**Neural Decoding from M1 (2023, CERVO)**: Developed deep learning pipelines for behavior, force, and kinematics BCI decoding.
+**Surrogate Models for EM Simulation (2022)**: Learned neural surrogates for finite-element simulations of magnetic components.
+**Deep RL for Wood Drying (2022)**: Built a PPO-based simulator for industrial process optimization.
+**Neural Combinatorial Optimization (2022)**: Applied graph neural networks and reinforcement learning to weapon-target assignment.
+**Superconducting Critical Temperature Prediction (2021)**: Predicted material critical temperatures using deep neural networks.
+**Model-Free vs. Model-Based RL**: Studied planning-based reinforcement learning methods, including MuZero.
+**ML Theory Notebooks (2020)**: Built Jupyter notebooks combining ML theory, statistics, and Python implementations.
+**More to come...**
 
 <div style="height: 0.8rem;"></div>
 
