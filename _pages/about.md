@@ -102,5 +102,5 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 ### ▸ *Algorithmic Trading and Investment Automation Platform* *(2020–Present)*
 
-* **Overview:** Developed algorithms and a prototype platform for automating and sharing investment and trading strategies across asset classes.
+* **Overview:** Developed algorithms and a prototype platform for automating and sharing investment strategies across asset classes, allowing users to allocate part of their portfolio to strategies they created or strategies made available by other users.
 * **State:** The project is still active: DM if interested or want more information!
