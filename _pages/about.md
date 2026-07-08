@@ -56,7 +56,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 - Reviewing and formalizing the core building blocks of autonomy across domains, including humanoid robots, drones, road vehicles, aircraft, spacecraft, aircraft networks, spacecraft constellations, and maritime systems.
 - Studying the current state of autonomous systems, the main characteristics of fully autonomous systems, and the technical gaps that must be bridged to reach robust, reliable, and increasingly independent autonomy.
-- Open to collaborations. Feel free to message me.
+- Open to collaborations: Feel free to message me for details or if interested to contribute/advise in any way!
 
 <div style="height: 2rem;"></div>
 
