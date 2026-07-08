@@ -72,7 +72,7 @@ Explored efficient scaling techniques for learning useful representations of neu
 
 Representative projects completed primarily through graduate coursework and research, included to showcase the evolution of my technical interests.
 
-- **Non-Contrastive Self-Supervised Learning (2023):** Investigated mechanisms preventing representation collapse in modern SSL methods.
+- **Non-Contrastive SSL Collapse (2023):** Investigated mechanisms preventing representation collapse in modern SSL methods.
 - **Neural Decoding from Primary Motor Cortex (2023, CERVO):** Developed deep learning pipelines for behavior, force, and kinematics decoding from intracortical neural recordings.
 - **Surrogate Models for Electromagnetic Simulation (2022):** Learned fast neural surrogates for finite-element analysis of magnetic components.
 - **Deep Reinforcement Learning for Wood Drying (2022):** Developed a PPO-based simulator for industrial process optimization.
