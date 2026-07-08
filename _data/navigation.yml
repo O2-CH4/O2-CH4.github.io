@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Academic"
-    url: /Academic/
+  # - title: "Academic"
+  #   url: /Academic/
     
   - title: "Gallery"
     url: /Gallery/     
 
-  - title: "Projects"
-    url: /Projects/
+  # - title: "Projects"
+  #   url: /Projects/
 
     
   # - title: "Portfolio"
