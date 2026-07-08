@@ -53,7 +53,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 <div style="height: 0.6rem;"></div>
 
-### ▸ *Study: Examining the Road Ahead to Fully Autonomous Systems Across Domains* *(Current)*
+### ▸ *Study - Examining the Road Ahead to Fully Autonomous Systems Across Domains* *(Current)*
 
 * **Goal:** Reviewing and formalizing the core building blocks of autonomy across domains, including humanoid robots, drones, road vehicles, aircraft, spacecraft, aircraft networks, spacecraft constellations, and maritime systems.
 * **Components:** Studying the current state of autonomous systems, the main characteristics of fully autonomous systems, and the technical gaps that must be bridged to reach robust, reliable, and increasingly independent autonomy.
