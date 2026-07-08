@@ -32,14 +32,14 @@ My long-term goal is to contribute to increasingly capable, robust, safe, and tr
 ### [A Survey of State Representation Learning for Deep Reinforcement Learning](#)
 
 *Transactions on Machine Learning Research (TMLR), 2025*  
-**Ayoub Echchahed, Pablo Samuel Castro**
+**Ayoub E., Pablo Samuel Castro**
 
 Comprehensive survey of state representation learning methods, evaluation protocols, and open challenges in deep reinforcement learning.
 
 ### [Towards Climate Investment Policies Informed by Reinforcement Learning](#)
 
 *International Conference on Learning Representations (ICLR), 2026*  
-**Juan Duque, Razvan C., Ayoub Echchahed, Aaron Courville, Hugo Larochelle**
+**Juan Duque, Razvan C., Ayoub E., Aaron Courville, Hugo Larochelle**
 
 Study showcasing the benefits of opponent-shaping multi-agent reinforcement learning for improving cooperation in climate-economic social dilemmas.
 
