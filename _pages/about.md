@@ -69,7 +69,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 ### ▸ *Weight-Space Representation Learning and FDM Learning for Parameter-Space “Warping” *(Mila, 2025)**
 
 - Explored whether learned representations of neural network weights, combined with forward dynamics models (FDMs) trained on trajectories of raw and/or encoded parameters across optimization steps, could help capture reusable training dynamics and accelerate model training across tasks, architectures, and settings.
-- Investigated scaling issue of parameter-space “warping” (s/o Lucas for the name), which if successful, can enable rapid, non-local jumps along model training trajectories.
+- We focused specifically on the scaling challenges of parameter-space “warping,” a term nicely suggested by Lucas in reference to warp-drive propulsion: the idea of moving through a model’s training trajectory by making rapid, non-local jumps through parameter space rather than progressing only step by step.
 - Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAAAJ&hl=fr), under the guidance of [Damien Scieur](https://scholar.google.com/citations?user=hNscQzgAAAAJ&hl=fr), [Boris Knyazev](https://scholar.google.com/citations?user=Dp9VFB0AAAAJ&hl=en), and [Alexia Jolicoeur-Martineau](https://scholar.google.com/citations?user=0qytQ1oAAAAJ&hl=en).
 
 <div style="height: 1.5rem;"></div>
