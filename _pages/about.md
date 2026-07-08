@@ -56,11 +56,12 @@ Examining common autonomy building blocks across spacecraft, aircraft, drones, r
 Studying advanced challenges for future autonomous systems, including multi-agent coordination, uncertainty-aware planning, adaptation, and robust control. Open to collaborations.
 
 
+<br>
 
 ### Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)*
 Developed deep learning models for synthetic air-data sensing and flight-test data analysis in safety-critical aerospace systems.
 
-
+<br>
 
 ### Weight-Space Representation Learning and Forward Dynamics for Parameter-Space “Warping” *(Mila, 2025)*
 
@@ -69,6 +70,10 @@ Explored weight-space representation learning and forward latent dynamics models
 Studied parameter-space “warping” as a way to enable rapid, non-local movement through model training trajectories.
 
 Topic explored with Lucas under the guidance of Damien Scieur, Boris Knyazev, and Alexia Jolicoeur-Martineau.
+
+
+
+<br>
 
 ### Selected Graduate Technical Projects *(2021–2024)*
 
