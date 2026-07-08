@@ -55,37 +55,37 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 ## Selected Projects
 
-*Relevant projects aligned with my research interests, completed through graduate coursework, industry R&D, personal exploration, or as MVPs for future startup ideas.*
+*Selected projects from graduate coursework, research, industry R&D, personal exploration, and MVP-style startup ideas.*
 
-### Advanced Autonomy Study *(Current)*
+### 1. Advanced Autonomy Study *(Current)*
 
-* Long-term synthesis of modern approaches to intelligent autonomous systems across aerospace, robotics, and other safety-critical domains.
-* Focuses on perception, representation learning, world models, planning, uncertainty, control, memory, adaptation, and multi-agent coordination.
+* Synthesizing modern approaches to autonomy across aerospace, robotics, and safety-critical systems.
+* Focus: perception, world models, planning, uncertainty, control, memory, adaptation, and multi-agent coordination.
 
-### Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)*
+### 2. Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)*
 
-* Developed deep learning models for synthetic air-data sensing and flight-test data analysis.
-* Worked on safety-critical aerospace data pipelines involving real flight-test data.
+* Developed deep learning models for synthetic air-data sensing and flight-test data analysis in safety-critical aerospace systems.
 
-### Weight-Space Representation Learning and Forward Latent Dynamics for Parameter-Space “Warping” *(Mila, 2025)*
+### 3. Weight-Space Representation Learning and Forward Latent Dynamics for Parameter-Space “Warping” *(Mila, 2025)*
 
-* Explored efficient scaling techniques for learning useful representations of neural network weights.
-* Studied forward latent dynamics models for predicting neural network training trajectories.
-* Investigated “warping” as a way to enable rapid, non-local movement along a model’s weight-space training trajectory toward later stages of optimization.
+* Explored weight-space representation learning and forward latent dynamics models for predicting neural network training trajectories.
+* Studied parameter-space “warping” as a way to enable rapid, non-local movement through model training trajectories.
 * Topic explored with Lucas under the guidance of Damien Scieur, Boris Knyazev, and Alexia Jolicoeur-Martineau.
 
-### Selected Graduate Classes Technical Projects *(2021–2024)*
+### 4. Selected Graduate Technical Projects *(2021–2024)*
 
-*Representative projects completed primarily through graduate coursework and research, included to showcase the evolution of my technical interests.*
+*Representative projects completed through graduate coursework and research.*
 
-* **Non-Contrastive SSL Collapse (2023):** Investigated mechanisms preventing representation collapse in modern self-supervised learning methods.
-* **Neural Decoding from Primary Motor Cortex (2023, CERVO):** Developed deep learning pipelines for behavior, force, and kinematics decoding from intracortical neural recordings.
-* **Surrogate Models for EM Simulation (2022):** Learned fast neural surrogates for finite-element simulations of magnetic components.
-* **Deep Reinforcement Learning for Wood Drying (2022):** Developed a PPO-based simulator for industrial process optimization.
+* **Non-Contrastive SSL Collapse (2023):** Studied mechanisms preventing representation collapse in self-supervised learning.
+* **Neural Decoding from Primary Motor Cortex (2023, CERVO):** Developed deep learning pipelines for behavior, force, and kinematics decoding from intracortical recordings.
+* **Surrogate Models for EM Simulation (2022):** Learned neural surrogates for finite-element simulations of magnetic components.
+* **Deep RL for Wood Drying (2022):** Built a PPO-based simulator for industrial process optimization.
 * **Neural Combinatorial Optimization (2022):** Applied graph neural networks and reinforcement learning to weapon-target assignment.
 * **Superconducting Critical Temperature Prediction (2021):** Predicted material critical temperatures using deep neural networks.
-* **Model-Free vs. Model-Based Reinforcement Learning:** Studied planning-based reinforcement learning methods, including MuZero.
-* **ML Theory and Implementations (2020):** Developed Jupyter notebooks combining theoretical deep dives, statistical foundations, and Python implementations of machine learning methods.
-* **Multi-Asset Investment Strategy Automation Platform (2020):** Developed algorithms and a prototype platform for automating and sharing investment/trading strategies, from simple rule-based systems to more advanced approaches. Still active.
+* **Model-Free vs. Model-Based RL:** Studied planning-based reinforcement learning methods, including MuZero.
+* **ML Theory and Implementations (2020):** Built Jupyter notebooks combining machine learning theory, statistics, and Python implementations.
 
+### 5. Algorithmic Trading and Investment Automation Platform *(2020–Present)*
 
+* Developed algorithms and a prototype platform for automating and sharing investment/trading strategies across multiple asset classes.
+* Project still active.
