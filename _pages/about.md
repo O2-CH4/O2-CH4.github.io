@@ -41,7 +41,7 @@ Comprehensive survey of state representation learning methods, evaluation protoc
 *International Conference on Learning Representations (ICLR), 2026*  
 **Juan Duque, Razvan C., Ayoub E., Aaron Courville, Hugo Larochelle**
 
-Study showcasing the benefits of opponent-shaping multi-agent reinforcement learning for improving cooperation in climate-economic social dilemmas.
+Study on opponent-shaping multi-agent reinforcement learning for cooperation in climate-economic social dilemmas.
 
 ---
 
