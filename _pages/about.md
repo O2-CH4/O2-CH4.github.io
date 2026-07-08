@@ -11,7 +11,7 @@ I am a Canadian AI graduate interested in the science and engineering of intelli
 
 Previously, I conducted deep learning research for brain-computer interfaces in the laboratory of [Christian Ethier](https://scholar.google.com/citations?user=9CzYcbAAAAAJ&hl=en) at the [CERVO Brain Research Center](https://cervo.ulaval.ca/en/), developing neural decoding pipelines from raw intracortical signals. More recently, I worked on applied AI R&D at Bombardier Aerospace and Bentley Systems, including deep learning for flight-test data analysis, synthetic sensor modeling, and reinforcement learning applications.
 
-My long-term goal is to contribute to increasingly capable, robust, safe, and trustworthy autonomous systems operating in complex real-world environments, including spacecraft, aircraft, drones, maritime systems, ground vehicles, and robotics.
+One of my long-term goal is to contribute to increasingly capable, robust, safe, and trustworthy autonomous systems operating in complex real-world environments, including spacecraft, aircraft, drones, maritime systems, ground vehicles, and robotics.
 
 ---
 
