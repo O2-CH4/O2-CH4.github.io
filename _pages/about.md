@@ -55,9 +55,9 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 ### ▸ *Study: Examining the Road Ahead to Fully Autonomous Systems Across Domains* *(Current)*
 
-- Reviewing and formalizing the core building blocks of autonomy across domains, including humanoid robots, drones, road vehicles, aircraft, spacecraft, aircraft networks, spacecraft constellations, and maritime systems.
-- Studying the current state of autonomous systems, the main characteristics of fully autonomous systems, and the technical gaps that must be bridged to reach robust, reliable, and increasingly independent autonomy.
-- Open to collaborations: Feel free to message me for details or if interested to contribute or advise in any way!
+* **Goal:** Reviewing and formalizing the core building blocks of autonomy across domains, including humanoid robots, drones, road vehicles, aircraft, spacecraft, aircraft networks, spacecraft constellations, and maritime systems.
+* **Components:** Studying the current state of autonomous systems, the main characteristics of fully autonomous systems, and the technical gaps that must be bridged to reach robust, reliable, and increasingly independent autonomy.
+* **collaborations:** Feel free to message me for details or if interested to contribute or advise in any way!
 
 <div style="height: 0.8rem;"></div>
 
@@ -80,9 +80,9 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 ### ▸ *Weight-Space Representation Learning and FDM Learning for Parameter-Space “Warping”* *(Mila, 2025)*
 
-Explored whether learned representations of neural network weights, combined with forward dynamics models (FDMs) trained on trajectories of raw and/or encoded parameters across optimization steps, could help capture reusable training dynamics and accelerate model training across tasks, architectures, and settings.
-We focused specifically on the scaling challenges of parameter-space “warping,” a term nicely suggested by Lucas in reference to warp-drive propulsion: the idea of moving through a model’s training trajectory by making rapid, non-local jumps through parameter space rather than progressing only step by step.
-Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAAAJ&hl=fr), under the guidance of [Damien Scieur](https://scholar.google.com/citations?user=hNscQzgAAAAJ&hl=fr), [Boris Knyazev](https://scholar.google.com/citations?user=Dp9VFB0AAAAJ&hl=en), and [Alexia Jolicoeur-Martineau](https://scholar.google.com/citations?user=0qytQ1oAAAAJ&hl=en).
+* **Overview:** Explored whether learned representations of neural network weights, combined with forward dynamics models (FDMs) trained on trajectories of raw and/or encoded parameters across optimization steps, could help capture reusable training dynamics and accelerate model training across tasks, architectures, and settings.
+* **Scaling Bottleneck:** We focused specifically on the scaling challenges of parameter-space “warping,” a term nicely suggested by Lucas in reference to warp-drive propulsion: the idea of moving through a model’s training trajectory by making rapid, non-local jumps through parameter space rather than progressing only step by step.
+* Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAAAJ&hl=fr), under the guidance of [Damien Scieur](https://scholar.google.com/citations?user=hNscQzgAAAAJ&hl=fr), [Boris Knyazev](https://scholar.google.com/citations?user=Dp9VFB0AAAAJ&hl=en), and [Alexia Jolicoeur-Martineau](https://scholar.google.com/citations?user=0qytQ1oAAAAJ&hl=en).
 
 <div style="height: 0.8rem;"></div>
 
@@ -102,5 +102,5 @@ Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAA
 
 ### ▸ *Algorithmic Trading and Investment Automation Platform* *(2020–Present)*
 
-Developed algorithms and a prototype platform for automating and sharing investment and trading strategies across asset classes.
-The project is still active: DM if interested or want more information!
+* **Overview:** Developed algorithms and a prototype platform for automating and sharing investment and trading strategies across asset classes.
+* **State:** The project is still active: DM if interested or want more information!
