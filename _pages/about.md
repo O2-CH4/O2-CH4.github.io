@@ -70,7 +70,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 - Explored weight-space representation learning and forward latent dynamics models for predicting neural network training trajectories.
 - Studied parameter-space “warping” as a way to enable rapid, non-local movement through model training trajectories.
-- Topic explored with Lucas under the guidance of Damien Scieur, Boris Knyazev, and Alexia Jolicoeur-Martineau.
+- Topic explored with [Lucas](https://scholar.google.com/citations?user=PHQDcTAAAAAJ&hl=fr) under the guidance of Damien Scieur, Boris Knyazev, and Alexia Jolicoeur-Martineau.
 
 <div style="height: 0.7rem;"></div>
 
