@@ -104,6 +104,4 @@ Representative projects completed through graduate coursework and research.
 
 ### Algorithmic Trading and Investment Automation Platform *(2020–Present)*
 
-Developed algorithms and a prototype platform for automating and sharing investment/trading strategies across multiple asset classes.
-
-Project still active, DM for more!
+Developed algorithms and a prototype platform for automating and sharing investment/trading strategies across multiple asset classes. The project is still active, DM for more!
