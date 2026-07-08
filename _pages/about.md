@@ -66,7 +66,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 * Developed deep learning models for synthetic air-data sensing and flight-test data analysis in safety-critical aerospace systems.
 
-### ▸ Weight-Space Representation Learning and Forward Latent Dynamics for Parameter-Space “Warping” *(Mila, 2025)*
+### ▸ Weight-Space Representation Learning and Forward Dynamics for Parameter-Space “Warping” *(Mila, 2025)*
 
 * Explored weight-space representation learning and forward latent dynamics models for predicting neural network training trajectories.
 * Studied parameter-space “warping” as a way to enable rapid, non-local movement through model training trajectories.
