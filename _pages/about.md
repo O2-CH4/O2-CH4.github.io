@@ -55,20 +55,20 @@ Information Theory, Combinatorial Optimization, Machine Learning, Reinforcement 
 
 *Relevant projects aligned with my research interests, completed through graduate coursework, industry R&D, personal exploration, or as MVPs for future startup ideas.*
 
-### Advanced Autonomy Study *(Current)*
+### - Advanced Autonomy Study *(Current)*
 
 A long-term synthesis of modern approaches to intelligent autonomous systems across aerospace, robotics, and other safety-critical domains, exploring perception, world models, planning, uncertainty, control, memory, and multi-agent coordination.
 
-### Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)*
+### - Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)*
 
 Developed deep learning models for synthetic air-data sensing and flight-test data analysis for safety-critical aerospace systems.
 
-### Exploration of Weight-Space Representation Learning and Forward Latent Dynamics for Parameter-Space “Warping” *(Mila, 2025)*
+### - Weight-Space Representation Learning and Forward Latent Dynamics for Parameter-Space “Warping” *(Mila, 2025)*
 
 Explored efficient scaling techniques for learning useful representations of neural network weights, together with forward latent dynamics models that can predict training trajectories and enable rapid, non-local jumps through parameter space. “Warping,” as Lucas nicely framed it, refers to accelerating movement along a neural network’s weight-space training trajectory toward later stages of optimization. Topic explored with Lucas under the guidance of Damien Scieur, Boris Knyazev, and Alexia Jolicoeur-Martineau.
 
 
-### Selected Graduate Classes Technical Projects *(2021-2024)*
+### - Selected Graduate Classes Technical Projects *(2021-2024)*
 
 Representative projects completed primarily through graduate coursework and research, included to showcase the evolution of my technical interests.
 
