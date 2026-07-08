@@ -83,7 +83,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 * **Neural Combinatorial Optimization (2022):** Applied graph neural networks and reinforcement learning to weapon-target assignment.
 * **Superconducting Critical Temperature Prediction (2021):** Predicted material critical temperatures using deep neural networks.
 * **Model-Free vs. Model-Based RL:** Studied planning-based reinforcement learning methods, including MuZero.
-* **ML Theory and Implementations (2020):** Built Jupyter notebooks combining machine learning theory, statistics, and Python implementations.
+* **ML Theory Notebooks (2020):** Built Jupyter notebooks combining ML theory, statistics, and Python implementations.
 
 ### ▸ Algorithmic Trading and Investment Automation Platform *(2020–Present)*
 
