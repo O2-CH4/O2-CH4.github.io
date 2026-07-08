@@ -54,10 +54,9 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 <br>
 
 ### Study - Examining the Road to Fully Autonomous Systems Across Domains *(Current)*
-Examining common autonomy building blocks across spacecraft, aircraft, drones, robotics, ground vehicles, and maritime systems. \\
-Studying advanced challenges for future autonomous systems, including multi-agent coordination, uncertainty-aware planning, adaptation, and robust control. \\
-Open to collaborations. \\
-
+> Examining common autonomy building blocks across spacecraft, aircraft, drones, robotics, ground vehicles, and maritime systems. \
+> Studying advanced challenges for future autonomous systems, including multi-agent coordination, uncertainty-aware planning, adaptation, and robust control. \
+> Open to collaborations. \
 
 <br>
 
