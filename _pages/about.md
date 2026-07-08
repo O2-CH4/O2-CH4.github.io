@@ -47,7 +47,7 @@ Study on opponent-shaping multi-agent reinforcement learning for cooperation in 
 
 ## Selected Graduate Coursework (2022-2024)
 
-Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement Learning; Representation Learning; Theoretical Principles of Deep Learning; Robot Learning; Towards AGI: Scaling, Emergence, Alignment; Design and Simulation of Industrial Intelligent Systems; 3D Perception for Autonomous Vehicles; Natural Language Processing; Bioinstrumentation and Biomedical Microsystems; Quantum Computing.
+Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement Learning; Representation Learning; Theoretical Principles of Deep Learning; Robot Learning; Towards AGI: Scaling, Emergence, Alignment; Design and Simulation of Industrial Intelligent Systems; 3D Perception for Autonomous Vehicles; NLP; Bioinstrumentation and Biomedical Microsystems (BCI); Quantum Computing.
 
 ---
 
