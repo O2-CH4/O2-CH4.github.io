@@ -77,7 +77,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 *Representative projects completed through graduate coursework and research.*
 
 * **Non-Contrastive SSL Collapse (2023):** Studied mechanisms preventing representation collapse in self-supervised learning.
-* **Neural Decoding from Primary Motor Cortex (2023, CERVO):** Developed deep learning pipelines for behavior, force, and kinematics decoding from intracortical recordings.
+* **Neural Decoding from M1 (2023, CERVO):** Developed deep learning pipelines for behavior, force, and kinematics decoding from intracortical recordings.
 * **Surrogate Models for EM Simulation (2022):** Learned neural surrogates for finite-element simulations of magnetic components.
 * **Deep RL for Wood Drying (2022):** Built a PPO-based simulator for industrial process optimization.
 * **Neural Combinatorial Optimization (2022):** Applied graph neural networks and reinforcement learning to weapon-target assignment.
