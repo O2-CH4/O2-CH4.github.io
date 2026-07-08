@@ -88,4 +88,4 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 ### ▸ Algorithmic Trading and Investment Automation Platform *(2020–Present)*
 
 * Developed algorithms and a prototype platform for automating and sharing investment/trading strategies across multiple asset classes.
-* Project still active.
+* Project still active, DM for more!
