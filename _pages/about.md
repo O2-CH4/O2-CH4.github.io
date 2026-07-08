@@ -5,8 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-# Welcome!
-
 ## Overview
 
 I am a Canadian AI graduate interested in the science and engineering of intelligence and advanced autonomy. I recently completed my second M.Sc. in Computer Science at the [Mila AI Institute](https://mila.quebec/), where I studied state representation learning for deep reinforcement learning under the supervision of [Pablo Samuel Castro]( https://scholar.google.com/citations?user=jn5r6TsAAAAJ&hl=en), leading to a survey published in *[Transactions on Machine Learning Research]( https://arxiv.org/pdf/2506.17518)*. I also contributed to multi-agent reinforcement learning research at Mila, collaborating with [Juan Duque](https://juanduquevan.github.io/) under the supervision of [Aaron Courville]( https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en) and [Hugo Larochelle]( https://scholar.google.com/citations?user=U89FHq4AAAAJ&hl=en) on opponent-shaping methods for improving cooperation in climate and economic simulation settings, leading to a recent [publication](https://openreview.net/pdf?id=ex93RVyP5r) co-presented at ICLR 2026.
