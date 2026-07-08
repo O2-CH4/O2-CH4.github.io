@@ -77,25 +77,30 @@ Topic explored with Lucas under the guidance of Damien Scieur, Boris Knyazev, an
 
 <br>
 
+
 ### Selected Graduate Technical Projects *(2021–2024)*
 
 Representative projects completed through graduate coursework and research.
 
-**Non-Contrastive SSL Collapse (2023):** Studied mechanisms preventing representation collapse in self-supervised learning.
+**- Non-Contrastive SSL Collapse (2023):** Studied mechanisms preventing representation collapse in self-supervised learning.
 
-**Neural Decoding from M1 (2023, CERVO):** Developed deep learning pipelines for behavior, force, and kinematics BCI decoding.
+**- Neural Decoding from M1 (2023, CERVO):** Developed deep learning pipelines for behavior, force, and kinematics BCI decoding.
 
-**Surrogate Models for EM Simulation (2022):** Learned neural surrogates for finite-element simulations of magnetic components.
+**- Surrogate Models for EM Simulation (2022):** Learned neural surrogates for finite-element simulations of magnetic components.
 
-**Deep RL for Wood Drying (2022):** Built a PPO-based simulator for industrial process optimization.
+**- Deep RL for Wood Drying (2022):** Built a PPO-based simulator for industrial process optimization.
 
-**Neural Combinatorial Optimization (2022):** Applied graph neural networks and reinforcement learning to weapon-target assignment.
+**- Neural Combinatorial Optimization (2022):** Applied graph neural networks and reinforcement learning to weapon-target assignment.
 
-**Superconducting Critical Temperature Prediction (2021):** Predicted material critical temperatures using deep neural networks.
+**- Superconducting Critical Temperature Prediction (2021):** Predicted material critical temperatures using deep neural networks.
 
-**Model-Free vs. Model-Based RL:** Studied planning-based reinforcement learning methods, including MuZero.
+**- Model-Free vs. Model-Based RL:** Studied planning-based reinforcement learning methods, including MuZero.
 
-**ML Theory Notebooks (2020):** Built Jupyter notebooks combining ML theory, statistics, and Python implementations.
+**- ML Theory Notebooks (2020):** Built Jupyter notebooks combining ML theory, statistics, and Python implementations.
+
+
+<br>
+
 
 ### Algorithmic Trading and Investment Automation Platform *(2020–Present)*
 
