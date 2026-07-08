@@ -57,7 +57,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 *Selected projects from graduate coursework, research, industry R&D, personal exploration, and MVP-style startup ideas.*
 
-### 1. Advanced Autonomy Study *(Current)*
+### -> Advanced Autonomy Study *(Current)*
 
 * Synthesizing modern approaches to autonomy across aerospace, robotics, and safety-critical systems.
 * Focus: perception, world models, planning, uncertainty, control, memory, adaptation, and multi-agent coordination.
