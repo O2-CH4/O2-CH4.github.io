@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-## Overview
+## 1) Overview
 
 I am a Canadian AI graduate interested in the science and engineering of intelligence and advanced autonomy. I recently completed my second M.Sc. in Computer Science at the [Mila AI Institute](https://mila.quebec/), where I studied state representation learning for deep reinforcement learning under the supervision of [Pablo Samuel Castro](https://scholar.google.com/citations?user=jn5r6TsAAAAJ&hl=en), leading to a survey published in *[Transactions on Machine Learning Research](https://arxiv.org/pdf/2506.17518)*. I also contributed to multi-agent reinforcement learning research at Mila, collaborating with [Juan Duque](https://juanduquevan.github.io/) under the supervision of [Aaron Courville](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en) and [Hugo Larochelle](https://scholar.google.com/citations?user=U89FHq4AAAAJ&hl=en) on opponent-shaping methods for improving cooperation in climate and economic simulation settings, leading to a recent [publication](https://openreview.net/pdf?id=ex93RVyP5r) co-presented at ICLR 2026.
 
@@ -15,7 +15,7 @@ My long-term goal is to contribute to increasingly capable, robust, safe, and tr
 
 ---
 
-## Research Interests
+## 2) Research Interests
 
 **Focus:** I am interested in understanding and improving the core building blocks of intelligent autonomous systems: perception, representation learning, world modeling, planning, control, uncertainty, adaptation, and multi-agent coordination.
 
@@ -25,7 +25,7 @@ My long-term goal is to contribute to increasingly capable, robust, safe, and tr
 
 ---
 
-## Publications
+## 3) Publications
 
 ### [A Survey of State Representation Learning for Deep Reinforcement Learning](#)
 
@@ -41,13 +41,13 @@ Study on opponent-shaping multi-agent reinforcement learning for cooperation in 
 
 ---
 
-## Selected Graduate Coursework
+## 4) Selected Graduate Coursework
 
 Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement Learning; Representation Learning; Theoretical Principles of Deep Learning; Robot Learning; Towards AGI: Scaling, Emergence, Alignment; Design and Simulation of Industrial Intelligent Systems; 3D Perception for Autonomous Vehicles; Natural Language Processing; Bioinstrumentation and Biomedical Microsystems; Quantum Computing.
 
 ---
 
-## Selected Projects
+## 5) Selected Projects
 
 *Selected projects from graduate coursework, research, industry R&D, personal exploration, and MVP-style startup ideas.*
 
