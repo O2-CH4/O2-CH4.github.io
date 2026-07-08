@@ -52,27 +52,26 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 ---
 
 
-
 ## Selected Projects
 
 *Selected projects from graduate coursework, research, industry R&D, personal exploration, and MVP-style startup ideas.*
 
-### --> Advanced Autonomy Study *(Current)*
+### ▸ Advanced Autonomy Study *(Current)*
 
 * Synthesizing modern approaches to autonomy across aerospace, robotics, and safety-critical systems.
 * Focus: perception, world models, planning, uncertainty, control, memory, adaptation, and multi-agent coordination.
 
-### --> Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)*
+### ▸ Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)*
 
 * Developed deep learning models for synthetic air-data sensing and flight-test data analysis in safety-critical aerospace systems.
 
-### --> Weight-Space Representation Learning and Forward Latent Dynamics for Parameter-Space “Warping” *(Mila, 2025)*
+### ▸ Weight-Space Representation Learning and Forward Latent Dynamics for Parameter-Space “Warping” *(Mila, 2025)*
 
 * Explored weight-space representation learning and forward latent dynamics models for predicting neural network training trajectories.
 * Studied parameter-space “warping” as a way to enable rapid, non-local movement through model training trajectories.
 * Topic explored with Lucas under the guidance of Damien Scieur, Boris Knyazev, and Alexia Jolicoeur-Martineau.
 
-### --> Selected Graduate Technical Projects *(2021–2024)*
+### ▸ Selected Graduate Technical Projects *(2021–2024)*
 
 *Representative projects completed through graduate coursework and research.*
 
@@ -85,7 +84,7 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 * **Model-Free vs. Model-Based RL:** Studied planning-based reinforcement learning methods, including MuZero.
 * **ML Theory and Implementations (2020):** Built Jupyter notebooks combining machine learning theory, statistics, and Python implementations.
 
-### --> Algorithmic Trading and Investment Automation Platform *(2020–Present)*
+### ▸ Algorithmic Trading and Investment Automation Platform *(2020–Present)*
 
 * Developed algorithms and a prototype platform for automating and sharing investment/trading strategies across multiple asset classes.
 * Project still active.
