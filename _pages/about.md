@@ -56,10 +56,12 @@ Information Theory; Combinatorial Optimization; Machine Learning; Reinforcement 
 
 *Selected projects from graduate coursework, research, industry R&D, personal exploration, and MVP-style startup ideas.*
 
-### ▸ Advanced Autonomy Study *(Current)*
+### ▸ Examining the Road to Fully Autonomous Systems Across Domains *(Current)*
 
-* Synthesizing modern approaches to autonomy across aerospace, robotics, and safety-critical systems.
-* Focus: perception, world models, planning, uncertainty, control, memory, adaptation, and multi-agent coordination.
+* Examining the common building blocks of autonomy across domains, including spacecraft, aircraft, drones, robotics, ground vehicles, and maritime systems.
+* Studying more challenging aspects of future autonomous systems, including multi-agent communication and coordination, uncertainty-aware decision-making, long-horizon planning, adaptation, and robust control.
+
+  
 
 ### ▸ Deep Learning for Flight-Test Data *(Bombardier Aerospace, 2025)*
 
