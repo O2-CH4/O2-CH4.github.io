@@ -27,7 +27,7 @@ Canadian AI graduate interested in the science and engineering of advanced intel
 
 **Autonomous Systems:** Understanding how to perceive, represent, reason, plan, and act in complex environments. Topics include representation learning, world-model-based planning, uncertainty quantification, memory, control, and multi-agent coordination.
 
-**Advanced Capabilities:** Investigating what prevents current systems from reaching more capable autonomy in dynamic environments, while formalizing the common building blocks and domain-specific distinctions across spacecraft, aircraft, drones, ground vehicles, maritime systems, and robotics. This includes identifying bottlenecks and assessing which approaches scale better.
+**Toward Full Autonomy:** Investigating what prevents current systems from operating reliably in dynamic, uncertain, and unfamiliar environments. Topics include decision-making under uncertainty, long-horizon and multi-agent planning, trajectory optimization, adaptation, fault recovery, etc.
 
 **Science and Engineering:** Advancing AI methods for scientific simulation, engineering design, and optimization, including surrogate and agentic approaches, differentiable simulators, physics-informed learning, and closing the simulation-to-reality gap.
 
