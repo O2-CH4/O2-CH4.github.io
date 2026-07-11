@@ -21,7 +21,7 @@ Canadian AI graduate interested in the science and engineering of intelligence a
 
 **Advanced Autonomy:** Investigating what prevents current systems from reaching more capable autonomy in dynamic environments, while formalizing the common building blocks and domain-specific distinctions across spacecraft, aircraft, drones, ground vehicles, maritime systems, and robotics. This includes identifying bottlenecks and assessing which approaches scale better.
 
-**AI for Science & Engineering:** Advancing AI methods for scientific simulation, engineering design, and optimization, including surrogate and agentic approaches, differentiable simulators, physics-informed learning, and closing the simulation-to-reality gap.
+**Science & Engineering:** Advancing AI methods for scientific simulation, engineering design, and optimization, including surrogate and agentic approaches, differentiable simulators, physics-informed learning, and closing the simulation-to-reality gap.
 
 ---
 
