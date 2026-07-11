@@ -7,7 +7,7 @@ author_profile: true
 
 ## 1) Overview
 
-I am a Canadian AI graduate interested in the science and engineering of intelligence and advanced autonomy.
+Canadian AI graduate interested in the science and engineering of intelligence and autonomy.
 
 Research: I recently completed my second M.Sc. in Computer Science at the Mila AI Institute, where I explored state representation learning for deep reinforcement learning, advised by Pablo Samuel Castro. Our work together eventually led to a survey of the field published in Transactions on Machine Learning Research (TMLR).
 
