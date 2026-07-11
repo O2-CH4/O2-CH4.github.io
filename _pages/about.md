@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-## 1) Overview
+### 1) Overview
 
 Canadian AI graduate interested in the science and engineering of intelligence and autonomy.
 
@@ -15,7 +15,7 @@ Canadian AI graduate interested in the science and engineering of intelligence a
 
 ⸻
 
-## 2) Research Interests
+### 2) Research Interests
 
 **Autonomous systems:** Understanding how autonomous systems perceive, represent, reason, plan, and act in complex environments. Topics include representation learning, world-model-based planning, uncertainty quantification, memory, control, and multi-agent coordination.
 
@@ -26,7 +26,7 @@ Canadian AI graduate interested in the science and engineering of intelligence a
 
 ---
 
-## 3) Publications
+### 3) Publications
 
 ### [A Survey of State Representation Learning for Deep Reinforcement Learning](#)
 *Transactions on Machine Learning Research, 2025*  
