@@ -27,7 +27,7 @@ author_profile: true
 
 
 ---
-### Jupiter Venus Conjunction - Montreal, CA (June 2026)
+## Jupiter Venus Conjunction - Montreal, CA (June 2026)
 ---
 
 
