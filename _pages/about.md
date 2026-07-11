@@ -37,12 +37,12 @@ Canadian AI graduate interested in the science and engineering of intelligence a
 
 ---
 
-#### - [A Survey of State Representation Learning for Deep Reinforcement Learning](https://arxiv.org/pdf/2506.17518) 
+#### • [A Survey of State Representation Learning for Deep Reinforcement Learning](https://arxiv.org/pdf/2506.17518) 
 *Transactions on Machine Learning Research (TMLR), 2025*  
 **Ayoub E., Pablo Samuel Castro**
 Comprehensive survey of state representation learning methods, evaluation protocols, and open challenges in deep reinforcement learning.
 
-#### - [Towards Climate Investment Policies Informed by Reinforcement Learning](https://arxiv.org/pdf/2602.11829)
+#### • [Towards Climate Investment Policies Informed by Reinforcement Learning](https://arxiv.org/pdf/2602.11829)
 *International Conference on Learning Representations, 2026*  
 **Juan Duque, Razvan C., Ayoub E., Aaron Courville, Hugo Larochelle**  
 Study on opponent-shaping multi-agent reinforcement learning for cooperation in climate-economic social dilemmas.
