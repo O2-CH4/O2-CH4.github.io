@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-### 1) Overview
+### Overview
 
 ---
 
@@ -21,7 +21,7 @@ Canadian AI graduate interested in the science and engineering of intelligence a
 
 ---
 
-### 2) Research Interests
+### Research Interests
 
 ---
 
