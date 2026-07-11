@@ -17,7 +17,7 @@ Canadian AI graduate interested in the science and engineering of intelligence a
 
 ### 2) Research Interests
 
-**Autonomous Systems:** Understanding how autonomous systems perceive, represent, reason, plan, and act in complex environments. Topics include representation learning, world-model-based planning, uncertainty quantification, memory, control, and multi-agent coordination.
+**Autonomous Systems:** Understanding how systems perceive, represent, reason, plan, and act in complex environments. Topics include representation learning, world-model-based planning, uncertainty quantification, memory, control, and multi-agent coordination.
 
 **Advanced Autonomy:** Investigating what prevents current systems from reaching more capable autonomy in dynamic environments, while formalizing the common building blocks and domain-specific distinctions across spacecraft, aircraft, drones, ground vehicles, maritime systems, and robotics. This includes identifying bottlenecks and assessing which approaches scale better.
 
