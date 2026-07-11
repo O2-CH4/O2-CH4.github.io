@@ -44,10 +44,10 @@ author_profile: true
 
 
 ---
-### ICLR — Rio de Janeiro, Brazil (April 2026)
+## ICLR — Rio de Janeiro, Brazil (April 2026)
 ---
 
-A few pictures from my stay in Brazil for ICLR, which was also my first trip to the Southern Hemisphere and gave me the chance to observe a different part of the night sky and unfamiliar celestial dynamics. The events were great, and I had many interesting discussions and connections with other attendees.
+A few pictures from my stay in Brazil during the ICLR 2026. Because it was my first trip to the Southern Hemisphere, I was able to observe a different portion of the night sky and celestial dynamics that are not visible from the Northern Hemisphere.
 
 ---
 <img width="1024" height="768" alt="5E127C4F-410C-4833-96F6-A718EF3498A4_1_105_c" src="https://github.com/user-attachments/assets/4f89e123-54f9-4ebc-af48-80b9f136f3fe" />
@@ -63,9 +63,14 @@ A few pictures from my stay in Brazil for ICLR, which was also my first trip to 
 
 
 
+---
+## MIT New Space and Imagination in Action AI Conferences -- Cambridge, Massachusetts, USA (April 2026)
+---
 
-### MIT New Space and Imagination in Action AI Conferences -- Cambridge, Massachusetts, USA (April 2026)
-I drove south for two conferences held on consecutive days in the Boston area, with interesting talks and a good mix of industry professionals and researchers. Both events took place across the different floors of the MIT Media Lab, which gave me a nice opportunity to explore the space and connect with people, especially during informal discussions on the rooftop terrace.
+Drove south to attend two conferences held on consecutive days in the Boston area. Both events took place across the floors of the MIT Media Lab, which was definetely an opportunity to explore the space and connect with interesting people, especially during informal discussions on the rooftop terrace.
+
+
+---
 
 <img width="1024" height="768" alt="E0A47209-3D7E-48DE-8309-2AE33778900E_1_105_c" src="https://github.com/user-attachments/assets/a71a6479-40ee-4ade-b26d-36b5fddbe046" />
 
@@ -105,33 +110,51 @@ I drove south for two conferences held on consecutive days in the Boston area, w
 
 
 
+---
+## Flight Software Workshop (JHU APL) -- Maryland, U.S (March 2026)
+---
+Attended the [19th Annual Flight Software Workshop](https://flightsoftware.org/workshop/FSW2026) at the Johns Hopkins Applied Physics Laboratory (JHU APL), which featured talks on spacecraft software, AI, autonomy, mission operations, and future space systems. I was also fortunate to join a restricted visit of selected APL facilities and receive a closer look at Dragonfly, including privileged technical information and a prototype flight-test demonstration. Dragonfly is NASA’s autonomous, nuclear-powered octocopter mission to Titan, Saturn’s largest moon. Scheduled for launch in July 2028 and arrival in late 2034, it is designed to study Titan’s habitability and investigate prebiotic chemistry relevant to the origins of life.
 
-### JHU APL Flight Software Workshop  -- Laurel, Maryland, USA (March 2026)
+The workshop also gave me the opportunity to have inspiring conversations with highly talented and passionate people working on current and future space missions, while building new connections across the international space community. I hope to attend the next edition at NASA Goddard.
 
-Drove south from Montreal to the Washington area to attend the 19th Annual Flight Software Workshop at the Johns Hopkins Applied Physics Laboratory. The workshop included interesting talks on spacecraft software, AI, and autonomy, along with a visit to key APL facilities reserved for a restricted group of attendees, which I was happy to be part of, and a closer look at the Dragonfly mission to Titan. Overall, it was a great opportunity to meet people working on current and future space missions and build international connections across the space industry. I also hope to attend the next edition at NASA Goddard.
+---
+
+
 
 <img width="1024" height="768" alt="1DCF8BC2-3171-40A7-B598-BCC092DF4E33_1_105_c" src="https://github.com/user-attachments/assets/4988abfe-0305-45c1-bf33-a4d5f99237db" />
 
+---
+
+
 <img width="1024" height="768" alt="2868DC23-0DD8-4EB3-A324-56F29A7FCEE9_1_105_c" src="https://github.com/user-attachments/assets/cfb4ffa8-9a93-4d69-87f1-c93689c0afe7" />
+
+---
 
 <img width="1999" height="1500" alt="8512AF0A-A8E8-448A-BE50-B987B6E49C6B_1_102_o" src="https://github.com/user-attachments/assets/4ede752c-2658-440f-aba5-02b9fdcd4bf5" />
 
+---
+
 <img width="1024" height="768" alt="FAC25852-6D13-4420-BCE1-DDB23527439B_1_105_c" src="https://github.com/user-attachments/assets/ab298d11-8e22-4cab-9030-4814c586d290" />
 
+---
+
 <img width="1248" height="629" alt="3E5F6934-8F12-4731-AF61-95CD012403C7_1_105_c" src="https://github.com/user-attachments/assets/c99a2b94-bd8f-4401-84bd-98921bab0bcd" />
+
+---
 
 <img width="2496" height="1258" alt="4DC8504C-BE98-4CA9-9F78-D349D6034F0F_1_102_a" src="https://github.com/user-attachments/assets/a94efe4a-ed59-4b35-97af-c2d8caf37546" />
 
 
-### World Models Workshop at Mila -- Montreal, Quebec, Canada (February 2026)
+
+---
+## World Models Workshop at Mila -- Montreal, Quebec, Canada (February 2026)
+---
+
 
 Had the opportunity to attend and help organize the first World Models Workshop at Mila, which brought together leading researchers in the field and created a strong setting for discussing one of the most active topics in next-generation AI.
 
 
 
-### AIAA SciTech Forum -- Orlando, Florida, USA (January 2026)
-
-Travelled to Orlando for AIAA SciTech to stay up to date with aerospace research, especially autonomy and AI for space. 
 
 
 
@@ -139,10 +162,29 @@ Travelled to Orlando for AIAA SciTech to stay up to date with aerospace research
 
 
 
+---
+## AIAA SciTech Forum -- Orlando, Florida, USA (January 2026)
+---
 
 
-    
-### USA Again (2025)
+Travelled to Orlando for **AIAA SciTech** to stay up to date with aerospace research, especially autonomy and AI for space. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---   
+## USA Again (2025)
+---
+
 
 <img width="283" alt="image" src="https://github.com/user-attachments/assets/5dc9ca6d-55cc-441d-9735-18908aa38e4f" />
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/fdd511cd-7b75-4c69-bde9-5d39004dc3d8" />
@@ -158,8 +200,10 @@ Travelled to Orlando for AIAA SciTech to stay up to date with aerospace research
 
 
 ---
+## RLC Conference 1st Edition -- UMass Amherst (2024)
+---
 
-### RLC Conference 1st Edition -- UMass Amherst (2024)
+
 
 <img width="261" alt="image" src="https://github.com/user-attachments/assets/ecccd43d-2c92-4c43-960f-e67bb68f5437"> <img width="280" alt="image" src="https://github.com/user-attachments/assets/d2c060e9-15c5-4c68-8082-0d3ba10fc108"> <img width="215" alt="image" src="https://github.com/user-attachments/assets/677de558-7569-4978-89d9-3952754e7c0b">
 
@@ -169,33 +213,28 @@ Travelled to Orlando for AIAA SciTech to stay up to date with aerospace research
 
 
 ---
-
-
-### United Kingdom Trip (2024)
-
+## United Kingdom Trip (2024)
+---
 <img width="211" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/0dbe782b-835e-4e2c-ab57-b26d89f1d933"> <img width="359" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/5b7c30ca-3704-45a5-9dec-1c2ed7b63552"> <img width="212" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/3c74d587-348f-4e2d-9370-b9e5e2c9bfa2">
 
 
 
 
 
+
+
+
 ---
-
-
-
-
-### United Kingdom Trip (2023)
-
+## United Kingdom Trip (2023)
+---
 <img width="211" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c0aa305a-93b3-44e2-b849-4ed7f4ff5d4d"> <img width="363" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/d24b24b9-9c67-4c17-9686-ff18b9695256"> <img width="212" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/e006f8b3-5709-49ef-982b-aad2f4a8a386">
 
 
 
 
 ---
-
-
-
-### Cross-USA Museum Trip (2023)
+## Cross-USA Museum Trip (2023)
+---
 
 <img width="185" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/ea6463fe-0833-432f-b22f-3328a90b1d24"> <img width="314" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/b0e7d890-b828-4527-b766-ea7024a95657"> <img width="184" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/17d2c604-4b24-42d1-b0b4-667496fc5bf1">
 
@@ -203,12 +242,11 @@ Travelled to Orlando for AIAA SciTech to stay up to date with aerospace research
 
 
 
+
+---
+## IRG's 8th Interstellar Symposium — McGill/CSA (2023)
 ---
 
-
-
-
-### IRG's 8th Interstellar Symposium — McGill/CSA (2023)
 
 <img width="315" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c66de1a5-9c73-4c44-873a-da2fea35d208"> 
 <img width="316" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/20ae0c63-e38f-406c-838d-863940714161">
@@ -219,13 +257,11 @@ Travelled to Orlando for AIAA SciTech to stay up to date with aerospace research
 
 
 
+
+
 ---
-
-
-
-
-### CERVO Brain Research Center (2023)
-
+## CERVO Brain Research Center (2023)
+---
 <img width="266" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/16715e72-89bd-4848-ad1b-7cf9ac475d28"> <img width="207" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/f8243e2b-c5f9-4dc0-b9e6-6eb1661e4414">
 
 
@@ -237,8 +273,9 @@ Travelled to Orlando for AIAA SciTech to stay up to date with aerospace research
 
 
 
-
-### Cross-USA Museum Trip (2022)
+---
+## Cross-USA Museum Trip (2022)
+---
 
 <img width="224" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/c7d599f4-5835-49bd-b525-e65a2458fe4f"> <img width="374" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/abe6f17f-aba8-43eb-a088-88eb15626520"> <img width="219" alt="image" src="https://github.com/O2-CH4/O2-CH4.github.io/assets/118633117/51457229-9d72-4388-9924-d9469a7dbc9d">
 
