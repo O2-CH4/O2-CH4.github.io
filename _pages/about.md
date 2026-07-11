@@ -27,7 +27,8 @@ Canadian AI graduate interested in the science and engineering of intelligence a
 
 ### 3) Publications
 
-#### [A Survey of State Representation Learning for Deep Reinforcement Learning](https://arxiv.org/pdf/2506.17518) *Transactions on Machine Learning Research (TMLR), 2025*  
+#### [A Survey of State Representation Learning for Deep Reinforcement Learning](https://arxiv.org/pdf/2506.17518) 
+*Transactions on Machine Learning Research (TMLR), 2025*  
 **Ayoub E., Pablo Samuel Castro**
 Comprehensive survey of state representation learning methods, evaluation protocols, and open challenges in deep reinforcement learning.
 
