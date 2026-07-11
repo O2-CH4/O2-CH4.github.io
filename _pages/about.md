@@ -20,7 +20,6 @@ Canadian AI graduate interested in the science and engineering of intelligence a
 **Industry:** More recently, I applied AI in industry R&D at Bombardier Aerospace and Bentley Systems. At Bombardier, I developed flight-test data pipelines and customized neural network training pipelines for evaluating approaches to virtual sensor development. At Bentley, I investigated ways of using deep reinforcement learning for discrete optimization problems in civil engineering.
 
 ---
----
 
 ### 2) Research Interests
 
