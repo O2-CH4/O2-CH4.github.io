@@ -7,39 +7,49 @@ author_profile: true
 
 
 
+
+
+
 ---
-## Year -- 2026
+
+## Aurora — Quebec, CA — July 2026
+
 ---
-
-
-
-
-### Aurora — Quebec, CA — July 2026
-
 <img width="1024" height="768" alt="3DBC351A-E5BF-4C89-AC39-5A7F62D178E9_1_105_c" src="https://github.com/user-attachments/assets/52458ff5-90cd-4c91-80c7-efd4c51220ac" />
 
+---
 <img width="1024" height="768" alt="EE9D4B18-C8BE-4D91-8CDC-D9760CD2F194_1_105_c" src="https://github.com/user-attachments/assets/197dda45-adcf-4abd-a321-6564718271e6" />
 
+---
 <img width="1024" height="768" alt="9FFF9F9A-88C1-4F2B-8E11-CFFA93B4D585_1_105_c" src="https://github.com/user-attachments/assets/5c470a22-e543-4c2d-a37c-41688fc9ebde" />
 
 
 
 
+---
 ### Jupiter Venus Conjunction - Montreal, CA (June 2026)
+---
 
+
+
+
+---
 <img width="768" height="1024" alt="FCE2BC59-3A3F-4056-B606-1777C7DE2AD0_1_105_c" src="https://github.com/user-attachments/assets/651770b0-a42c-4dea-b36c-9006b567599a" />
 
+---
 <img width="768" height="1024" alt="B45F42F3-0E7B-4C7C-A6A1-308ECCF5E9D0_1_105_c" src="https://github.com/user-attachments/assets/d62ebaed-13ec-4478-8eb6-251692c5809d" />
 
+---
 <img width="1024" height="768" alt="5F4ED51B-F297-4939-92F6-2063A92E28E6_1_105_c" src="https://github.com/user-attachments/assets/8e7a4ed9-358b-4a91-994d-3f383bd67736" />
 
 
-
+---
 ### ICLR — Rio de Janeiro, Brazil (April 2026)
+---
 
 A few pictures from my stay in Brazil for ICLR, which was also my first trip to the Southern Hemisphere and gave me the chance to observe a different part of the night sky and unfamiliar celestial dynamics. The events were great, and I had many interesting discussions and connections with other attendees.
 
-
+---
 <img width="1024" height="768" alt="5E127C4F-410C-4833-96F6-A718EF3498A4_1_105_c" src="https://github.com/user-attachments/assets/4f89e123-54f9-4ebc-af48-80b9f136f3fe" />
 <img width="768" height="1024" alt="0236F623-EC1D-4FE7-9408-50C0E8D94FC0_1_105_c" src="https://github.com/user-attachments/assets/ef866c70-e58b-4cb0-8972-bd08495ec648" />
 <img width="1024" height="768" alt="FDFCFC33-36A1-42FD-AF04-EF27106DE83E_1_105_c" src="https://github.com/user-attachments/assets/1623aa46-4c08-43f7-8404-6c9ea3a16daa" />
