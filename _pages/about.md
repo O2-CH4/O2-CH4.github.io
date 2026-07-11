@@ -17,11 +17,11 @@ Canadian AI graduate interested in the science and engineering of intelligence a
 
 ### 2) Research Interests
 
-**Autonomous systems:** Understanding how autonomous systems perceive, represent, reason, plan, and act in complex environments. Topics include representation learning, world-model-based planning, uncertainty quantification, memory, control, and multi-agent coordination.
+**Autonomous Systems:** Understanding how autonomous systems perceive, represent, reason, plan, and act in complex environments. Topics include representation learning, world-model-based planning, uncertainty quantification, memory, control, and multi-agent coordination.
 
-**Scalable autonomy:** Investigating what prevents current systems from reaching more complete and capable autonomy in dynamic and noisy environments. Formalizing the capabilities required for next-generation fully autonomous systems across spacecraft, aircraft, ground vehicles, maritime systems, and robotics can help identify what is missing and guide research toward the most promising directions.
+**Advanced Autonomy:** Investigating what prevents current systems from reaching more capable autonomy in dynamic and noisy environments, while formalizing the common building blocks and domain-specific distinctions across spacecraft, aircraft, drones, ground vehicles, maritime systems, and robotics. This includes identifying key bottlenecks and assessing which approaches scale most effectively.
 
-**AI for science and engineering:** Advancing AI methods for scientific simulation, engineering design, and optimization, including surrogate and agentic approaches, differentiable simulators, physics-informed learning, and closing the simulation-to-reality gap.
+**AI for Science & Engineering:** Advancing AI methods for scientific simulation, engineering design, and optimization, including surrogate and agentic approaches, differentiable simulators, physics-informed learning, and closing the simulation-to-reality gap.
 
 ---
 
