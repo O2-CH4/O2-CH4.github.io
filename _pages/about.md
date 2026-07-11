@@ -21,7 +21,7 @@ Canadian AI graduate interested in the science and engineering of advanced intel
 
 ---
 
-### 2) Interests
+### 2) Research Interests
 
 ---
 
