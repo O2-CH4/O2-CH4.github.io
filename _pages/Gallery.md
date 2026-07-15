@@ -15,6 +15,10 @@ author_profile: true
 ## Aurora — Quebec, CA — July 2026
 
 ---
+
+Rare auroras photographed late at night near Quebec City’s airport. Two days earlier, I had noticed a clearly visible sunspot while photographing the setting Sun, without expecting that auroras would follow.
+
+---
 <img width="1024" height="768" alt="3DBC351A-E5BF-4C89-AC39-5A7F62D178E9_1_105_c" src="https://github.com/user-attachments/assets/52458ff5-90cd-4c91-80c7-efd4c51220ac" />
 
 ---
@@ -22,6 +26,11 @@ author_profile: true
 
 ---
 <img width="1024" height="768" alt="9FFF9F9A-88C1-4F2B-8E11-CFFA93B4D585_1_105_c" src="https://github.com/user-attachments/assets/5c470a22-e543-4c2d-a37c-41688fc9ebde" />
+
+---
+
+<img width="2764" height="1870" alt="image" src="https://github.com/user-attachments/assets/eed70817-9392-4410-8609-131e6c7d3913" />
+
 
 
 
@@ -51,11 +60,23 @@ A few pictures from my stay in Brazil during the ICLR 2026. Because it was my fi
 
 ---
 <img width="1024" height="768" alt="5E127C4F-410C-4833-96F6-A718EF3498A4_1_105_c" src="https://github.com/user-attachments/assets/4f89e123-54f9-4ebc-af48-80b9f136f3fe" />
+
+---
 <img width="768" height="1024" alt="0236F623-EC1D-4FE7-9408-50C0E8D94FC0_1_105_c" src="https://github.com/user-attachments/assets/ef866c70-e58b-4cb0-8972-bd08495ec648" />
+
+---
 <img width="1024" height="768" alt="FDFCFC33-36A1-42FD-AF04-EF27106DE83E_1_105_c" src="https://github.com/user-attachments/assets/1623aa46-4c08-43f7-8404-6c9ea3a16daa" />
+
+---
 <img width="1258" height="625" alt="21D73554-27A3-4274-9DD8-F8C803F80CE0_1_105_c" src="https://github.com/user-attachments/assets/2ed7f397-bab4-445d-9d7d-2a09c99ba59d" />
+
+---
 <img width="1024" height="768" alt="40BF0A0E-C5DC-4F1B-9DA2-6186DF58187C_1_105_c" src="https://github.com/user-attachments/assets/23c2e7eb-63fe-4e63-8f07-59c78ea31f2c" />
+
+---
 <img width="2048" height="1536" alt="52E0A531-AEC2-4E85-8930-A4CDC049CD70_1_102_a" src="https://github.com/user-attachments/assets/3ce3b303-d1b4-466d-bcce-2d5c837339ad" />
+
+---
 <img width="1024" height="768" alt="DD55E6E1-BA0D-487D-ACAD-FA0405DF9A30_1_105_c" src="https://github.com/user-attachments/assets/41926acf-45a8-4fcc-aac0-7b0a59bc3c57" />
 
 
@@ -69,41 +90,36 @@ A few pictures from my stay in Brazil during the ICLR 2026. Because it was my fi
 
 Drove south to attend two conferences held on consecutive days in the Boston area. Both events took place across the floors of the MIT Media Lab, which was definetely an opportunity to explore the space and connect with interesting people, especially during informal discussions on the rooftop terrace.
 
-
 ---
 
 <img width="1024" height="768" alt="E0A47209-3D7E-48DE-8309-2AE33778900E_1_105_c" src="https://github.com/user-attachments/assets/a71a6479-40ee-4ade-b26d-36b5fddbe046" />
 
+---
 
 <img width="768" height="1024" alt="357E63F4-19C3-44CA-A188-88DD80FE7DD8_1_105_c" src="https://github.com/user-attachments/assets/3ed08dc7-f689-4f85-ad32-b49294c222b4" />
 
-
+---
 <img width="768" height="1024" alt="D767D733-D58E-475E-86FC-068968E7FD31_1_105_c" src="https://github.com/user-attachments/assets/41032841-935f-4635-b8f7-1a92d904ab5a" />
 
-
+---
 <img width="768" height="1024" alt="9930AF84-F3A7-46CF-9BFA-E6460AD1F37A_1_105_c" src="https://github.com/user-attachments/assets/3de26240-d963-4087-9eec-ad7e22b2cd21" />
 
-
+---
 <img width="1024" height="768" alt="DD2516FC-E645-4A24-AFE8-7081C6AEA70C_1_105_c" src="https://github.com/user-attachments/assets/f2df3c84-1ccb-448c-a769-903e20db81e0" />
 
-
-
-
-
-
-
+---
 <img width="1024" height="768" alt="47E9F172-14FE-4D3B-841A-54E2672660E6_1_105_c" src="https://github.com/user-attachments/assets/53734586-d3dd-4675-a5f2-c5503723014f" />
 
-
+---
 <img width="1024" height="768" alt="58AD58B8-34B7-4AA7-AFD6-D9E7879FC52A_1_105_c" src="https://github.com/user-attachments/assets/87e18b48-eff2-428d-aee1-104ba59d5bce" />
 
-
+---
 <img width="768" height="1024" alt="64963FF6-2EB2-417B-ACE9-32344AA5D797_1_105_c" src="https://github.com/user-attachments/assets/b66bd159-efff-46cd-a9e8-2ddb707168e6" />
 
-
-
+---
 <img width="1024" height="768" alt="06651521-B107-4732-9A7C-3741040AF0AC_1_105_c" src="https://github.com/user-attachments/assets/d28c05ab-c6a2-4a87-b457-1c7d74264a75" />
 
+---
 <img width="1024" height="768" alt="3915CAF2-7E21-4125-A2D5-2D54B0B7E540_1_105_c" src="https://github.com/user-attachments/assets/ad71472c-3b58-4823-b80d-5b4fe720059b" />
 
 
@@ -187,7 +203,12 @@ Travelled to Orlando for **AIAA SciTech** to stay up to date with aerospace rese
 
 
 <img width="283" alt="image" src="https://github.com/user-attachments/assets/5dc9ca6d-55cc-441d-9735-18908aa38e4f" />
+
+---
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/fdd511cd-7b75-4c69-bde9-5d39004dc3d8" />
+
+---
+
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/3ac64108-c55b-4e11-af42-26d9415fa0a6" />
 
 
