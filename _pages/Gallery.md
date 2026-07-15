@@ -85,10 +85,11 @@ A few pictures from my stay in Brazil during the ICLR 2026. Because it was my fi
 
 
 ---
-## MIT New Space and Imagination in Action AI Conferences -- Cambridge, Massachusetts, USA (April 2026)
+## MIT New Space & Imagination in Action -- Cambridge, MA, US (April 2026)
 ---
 
-Drove south to attend two conferences held on consecutive days in the Boston area. Both events took place across the floors of the MIT Media Lab, which was definetely an opportunity to explore the space and connect with interesting people, especially during informal discussions on the rooftop terrace.
+Drove south to attend two consecutive conferences at the MIT Media Lab, the first covering the New Space commercial frontier and the second the future of AI and innovation.
+
 
 ---
 
@@ -129,9 +130,13 @@ Drove south to attend two conferences held on consecutive days in the Boston are
 ---
 ## Flight Software Workshop (JHU APL) -- Maryland, U.S (March 2026)
 ---
-Attended the [19th Annual Flight Software Workshop](https://flightsoftware.org/workshop/FSW2026) at the Johns Hopkins Applied Physics Laboratory (JHU APL), which featured talks on spacecraft software, AI, autonomy, mission operations, and future space systems. I was also fortunate to join a restricted visit of selected APL facilities and receive a closer look at Dragonfly, including privileged technical information and a prototype flight-test demonstration. Dragonfly is NASA’s autonomous, nuclear-powered octocopter mission to Titan, Saturn’s largest moon. Scheduled for launch in July 2028 and arrival in late 2034, it is designed to study Titan’s habitability and investigate prebiotic chemistry relevant to the origins of life.
 
-The workshop also gave me the opportunity to have inspiring conversations with highly talented and passionate people working on current and future space missions, while building new connections across the international space community. I hope to attend the next edition at NASA Goddard.
+Attended the [19th Annual Flight Software Workshop](https://flightsoftware.org/workshop/FSW2026) at the Johns Hopkins Applied Physics Laboratory, with talks on spacecraft software, AI, autonomy, mission operations, and future space systems.
+
+Also joined a restricted visit of selected APL facilities, including its mission control, some of its spacecraft qualification test beds, and, most uniquely, insights into NASA’s upcoming Dragonfly mission, which aims to send an autonomous, nuclear-powered octocopter to Titan as early as 2028.
+
+Overall, the workshop was a great opportunity to meet space professionals from around the world and have insightful conversations with them. I hope to attend the next FSW edition at NASA Goddard.
+
 
 ---
 
@@ -163,18 +168,37 @@ The workshop also gave me the opportunity to have inspiring conversations with h
 
 
 ---
-## World Models Workshop at Mila -- Montreal, Quebec, Canada (February 2026)
+## World Models Workshop (Mila) -- Montreal, CA (Feb 2026)
 ---
 
 
 Had the opportunity to attend and help organize the first World Models Workshop at Mila, which brought together leading researchers in the field and created a strong setting for discussing one of the most active topics in next-generation AI.
 
+---
+
+<img width="1024" height="768" alt="5F78E471-8897-475B-8591-613A8D7D04EC_1_105_c" src="https://github.com/user-attachments/assets/2c77965d-f9a3-40ce-b3a3-5f6af90cf6d5" />
+
+---
+
+<img width="1024" height="768" alt="How do we build a generalist Al model for science" src="https://github.com/user-attachments/assets/76972fdc-ebea-4a3c-8ce8-3198c005d4a1" />
+
+---
+
+<img width="1024" height="768" alt="39318B4B-2F0A-47B6-83F9-64B5789AC493_1_105_c" src="https://github.com/user-attachments/assets/255cde12-aaf6-41ab-9e98-085837f0fa16" />
+
+---
+
+<img width="2977" height="1879" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/b931d4f2-75bb-496e-b54c-3ed1a70ec81b" />
 
 
+---
+
+<img width="1024" height="768" alt="Shirley" src="https://github.com/user-attachments/assets/9a8d6a57-914b-4617-93db-f43a761deff4" />
+
+---
 
 
-
-
+<img width="1024" height="768" alt="2(0) = Elaa  in)~D((2(8,0) - 1 - y max Q)(8,a)" src="https://github.com/user-attachments/assets/43e6912f-e53a-457f-bec0-c92722770fc3" />
 
 
 
@@ -185,20 +209,109 @@ Had the opportunity to attend and help organize the first World Models Workshop 
 
 Travelled to Orlando for **AIAA SciTech** to stay up to date with aerospace research, especially autonomy and AI for space. 
 
+---   
+
+<img width="1024" height="768" alt="4C337089-6BDE-43EF-9EA9-D9E453EA8208_1_105_c" src="https://github.com/user-attachments/assets/b2171df9-fc8a-4763-8774-6761acb03d98" />
+
+---   
+
+<img width="1024" height="768" alt="FBEEA4B1-F45D-4EC0-A182-17A6DDA97070_1_105_c" src="https://github.com/user-attachments/assets/6f730e8d-2a0c-4f4b-9533-2f7d35d1d214" />
+
+
+---   
+
+<img width="1024" height="768" alt="8578FD23-E952-48A2-9025-A7FA49DE2E9E_1_105_c" src="https://github.com/user-attachments/assets/a2062942-d235-4381-87a7-4307eacfa086" />
+
+---   
+
+
+<img width="1024" height="768" alt="DAF2A7BD-E14D-49E9-96FF-EF2F45AA4CDC_1_105_c" src="https://github.com/user-attachments/assets/7bb40490-18c8-4e9d-a375-5d79934cab70" />
+
+---   
+
+<img width="1024" height="768" alt="Strip Imaging Tank Scheduling for Event Monihodog" src="https://github.com/user-attachments/assets/124e5c08-aaa8-4d30-b254-baf1ef3a3e6a" />
+
+---   
+
+<img width="1024" height="768" alt="Model Context Protocol Exposes Telescope" src="https://github.com/user-attachments/assets/bc6552bf-731b-4486-babf-7aa41b62b17d" />
+
+---   
+
+<img width="1024" height="768" alt="6CBA9F2B-8EB4-46BC-92C0-1308F4E5408B_1_105_c" src="https://github.com/user-attachments/assets/badef34d-f78b-4171-8228-2d94143a351c" />
+
+---   
+
+<img width="1024" height="768" alt="The Ecosystem A Unified Physics Al Platfor" src="https://github.com/user-attachments/assets/c67a5499-2b96-47a8-aad1-17e98a8771d5" />
+
+---   
+
+<img width="1024" height="768" alt="Observations   Outlook" src="https://github.com/user-attachments/assets/1bd2bc37-ac2e-40dc-99aa-277d382eeb64" />
+
+---   
+
+<img width="1024" height="768" alt="EAD570A7-1E10-4DD5-9571-514DBAE9FC7B_1_105_c" src="https://github.com/user-attachments/assets/4199ad1c-b2a0-41d0-acbc-3713c3ee5e83" />
+
+---   
+
+<img width="1024" height="768" alt="910957BF-D763-40DB-A4DD-21CB7C1B2EF0_1_105_c" src="https://github.com/user-attachments/assets/ecefac25-1874-4a96-bd75-a226fab89b69" />
+
+---   
+
+<img width="1182" height="665" alt="844D7473-463F-4C1A-9DE6-935FB519C59E_1_105_c" src="https://github.com/user-attachments/assets/021e9a38-5f6c-4e10-8496-2a086e684ffe" />
+
+---   
+
+<img width="1024" height="768" alt="75FF07D9-CCEB-448E-BCD7-4CB58474C8DA_1_105_c" src="https://github.com/user-attachments/assets/99a37803-a0f6-4bb8-9112-6da18c2d2812" />
+
+---   
+
+<img width="1024" height="768" alt="Methodology - DreamLander Architecture" src="https://github.com/user-attachments/assets/05a51b89-96c6-43eb-9c38-183e7b595d89" />
+
+---   
+
+<img width="768" height="1024" alt="10F81ED3-1AA9-4C21-AB8C-46906DDA833E_1_105_c" src="https://github.com/user-attachments/assets/488c8203-5923-438e-bb5a-a9439727fba4" />
+
+---   
+
+<img width="1024" height="768" alt="F966D433-62FD-4C79-9CEE-81B414012DE2_1_105_c" src="https://github.com/user-attachments/assets/23314f00-b63d-426d-9af8-038b9c5bb7b5" />
+
+---   
+
+
+<img width="1024" height="768" alt="FBEAF5C8-A6C8-4E60-B8FC-6349409196A8_1_105_c" src="https://github.com/user-attachments/assets/3218f088-269f-4528-a916-a17dc48e972d" />
+
+---   
+
+
+<img width="1024" height="768" alt="66FE45F9-1D08-42C5-A8D9-EE6D03914F64_1_105_c" src="https://github.com/user-attachments/assets/2f1f3b82-afbb-40cf-be4f-53e0750f3235" />
 
 
 
 
 
 
+---
+
+#### _Loading_
+
+---
 
 
+---   
+## U.S -- Bay Area, Los Angeles, San Diego (2025)
+---
+
+---
+
+#### _Loading_
+
+---
 
 
 
 
 ---   
-## USA Again (2025)
+## U.S -- Florida, Texa, etc (2025)
 ---
 
 
