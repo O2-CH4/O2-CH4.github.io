@@ -54,7 +54,7 @@ Study on opponent-shaping multi-agent reinforcement learning for cooperation in 
 
 ---
 
-### (i) Grad classes:
+### (i) Grad classes (2022-2024)
 
 |  |  |
 |:--|:--|
@@ -66,7 +66,7 @@ Study on opponent-shaping multi-agent reinforcement learning for cooperation in 
 | Natural Language Processing | Bioinstrumentation & Biomedical Microsystems |
 | Quantum Computing | |
 
-### (ii) Few relevant projects:
+### (ii) Few past relevant projects:
 
 - **Avoiding Collapses in Non-Contrastive SSL Methods:** Studied the architectural and regularization mechanisms used to prevent representational collapse in non-contrastive self-supervised learning.
 - **Inductor Magnetic Energy Estimation:** Trained MLP surrogate models on 100,000 FEA samples to rapidly predict magnetic energy from inductor design parameters.
