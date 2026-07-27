@@ -5,8 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-
-
 ---
 
 ## 1) Overview
@@ -15,9 +13,9 @@ author_profile: true
 
 Canadian AI graduate interested in the science and engineering of advanced intelligence and autonomy.
 
-**Research:** I recently completed my second M.Sc. in Computer Science at the [Mila AI Institute](https://mila.quebec/), where I explored state representation learning for deep reinforcement learning, advised by [Pablo Samuel Castro](https://scholar.google.com/citations?user=jn5r6TsAAAAJ&hl=en). Our work together led to a [survey of the field](https://arxiv.org/pdf/2506.17518) published in *Transactions on Machine Learning Research*. I also contributed to multi-agent reinforcement learning research at Mila, collaborating with Juan Duque under the supervision of [Aaron Courville]( https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en) and [Hugo Larochelle]( https://scholar.google.com/citations?user=U89FHq4AAAAJ&hl=en). Our work investigated opponent-shaping methods for improving cooperation in climate and economic multi-agent simulations, leading to a publication at ICLR 2026. Before joining Mila, I worked with [Christian Ethier](https://scholar.google.com/citations?user=9CzYcbAAAAAJ&hl=en) and his research group at the [CERVO Brain Research Center](https://cervo.ulaval.ca/en/), where I developed end-to-end pipelines for deep learning-based brain-computer interface decoding.
+**Research:** During my second M.Sc. in Computer Science at the [Mila AI Institute](https://mila.quebec/), I studied state representation learning for deep reinforcement learning with [Pablo Samuel Castro](https://scholar.google.com/citations?user=jn5r6TsAAAAJ&hl=en), leading to a [TMLR survey](https://arxiv.org/pdf/2506.17518). I also worked with Juan Duque, [Aaron Courville](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en), and [Hugo Larochelle](https://scholar.google.com/citations?user=U89FHq4AAAAJ&hl=en) on opponent shaping for cooperation in climate-economic multi-agent simulations, published at ICLR 2026. Previously, at the [CERVO Brain Research Center](https://cervo.ulaval.ca/en/), I developed deep-learning pipelines for brain-computer interface decoding with [Christian Ethier](https://scholar.google.com/citations?user=9CzYcbAAAAAJ&hl=en)'s group.
 
-**Industry:** More recently, I applied AI in industry R&D at Bombardier Aerospace and Bentley Systems. At Bombardier, I developed flight-test data pipelines and customized neural network training pipelines for evaluating approaches to virtual sensor development. At Bentley Systems, I investigated different ways of using deep reinforcement learning for discrete optimization problems in civil engineering applications.
+**Industry:** At Bombardier Aerospace, I developed flight-test data and neural-network pipelines to evaluate virtual-sensor approaches. At Bentley Systems, I investigated deep reinforcement learning for discrete optimization in civil engineering.
 
 ---
 
@@ -47,6 +45,28 @@ Comprehensive survey of state representation learning methods, evaluation protoc
 **Juan Duque, Razvan C., Ayoub E., Aaron Courville, Hugo Larochelle**  
 Study on opponent-shaping multi-agent reinforcement learning for cooperation in climate-economic social dilemmas.
 
+---
+
+## 4) Academic
 
 ---
 
+### (i) Grad classes:
+
+|  |  |
+|:--|:--|
+| Reinforcement Learning | Information Theory |
+| Robot Learning | Combinatorial Optimization |
+| Representation Learning | 3D Perception for Autonomous Vehicles |
+| Theoretical Principles of Deep Learning | Design and Simulation of Intelligent Systems |
+
+### (ii) Few relevant projects:
+
+- **Avoiding Collapses in Non-Contrastive SSL Methods:** Studied the architectural and regularization mechanisms used to prevent representational collapse in non-contrastive self-supervised learning.
+- **Inductor Magnetic Energy Estimation:** Trained MLP surrogate models on 100,000 FEA samples to rapidly predict magnetic energy from inductor design parameters.
+- **Simulation and Optimization of Wood Drying through Deep RL:** Built a Gym/SimPy digital twin and trained PPO agents with heuristic-guided rewards for industrial resource allocation.
+- **Neural Combinatorial Solver for Weapon-Target Assignment:** Compared a Graph Attention Network solver trained with reinforcement learning against traditional optimization methods.
+- **Critical Temperature Prediction for Superconducting Materials:** Trained neural surrogate models on 21,263 materials and 82 attributes to predict superconducting critical temperature.
+- **[Model-Free vs. Model-Based Reinforcement Learning](https://github.com/O2-CH4/RL_Files):** Studied their main trade-offs and implemented key components of MuZero.
+
+---
