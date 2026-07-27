@@ -74,11 +74,11 @@ Study on opponent-shaping multi-agent reinforcement learning for cooperation in 
 
 ### (ii) Few past relevant projects:
 
-- **Avoiding Collapses in Non-Contrastive SSL Methods:** Studied the architectural and regularization mechanisms used to prevent representational collapse in non-contrastive self-supervised learning.
-- **Inductor Magnetic Energy Estimation:** Trained MLP surrogate models on 100,000 FEA samples to rapidly predict magnetic energy from inductor design parameters.
-- **Simulation and Optimization of Wood Drying through Deep RL:** Built a Gym/SimPy digital twin and trained PPO agents with heuristic-guided rewards for industrial resource allocation.
-- **Neural Combinatorial Solver for Weapon-Target Assignment:** Compared a Graph Attention Network solver trained with reinforcement learning against traditional optimization methods.
-- **Critical Temperature Prediction for Superconducting Materials:** Trained neural surrogate models on 21,263 materials and 82 attributes to predict superconducting critical temperature.
+- **Avoiding Collapses in Non-Contrastive SSL Methods:** Studied the architectural and regularization mechanisms used to prevent representational collapse in non-contrastive self-supervised learning.  
+- **Inductor Magnetic Energy Estimation:** Trained MLP surrogate models on 100,000 FEA samples to rapidly predict magnetic energy from inductor design parameters.  
+- **Simulation and Optimization of Wood Drying through Deep RL:** Built a Gym/SimPy digital twin and trained PPO agents with heuristic-guided rewards for industrial resource allocation.  
+- **Neural Combinatorial Solver for Weapon-Target Assignment:** Compared a Graph Attention Network solver trained with reinforcement learning against traditional optimization methods.  
+- **Critical Temperature Prediction for Superconducting Materials:** Trained neural surrogate models on 21,263 materials and 82 attributes to predict superconducting critical temperature.  
 - **Model-Free vs. Model-Based Reinforcement Learning:** Studied their main trade-offs and implemented key components of MuZero.
 
 ---
