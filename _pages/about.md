@@ -61,10 +61,13 @@ Study on opponent-shaping multi-agent reinforcement learning for cooperation in 
 
 |  |  |
 |:--|:--|
-| Reinforcement Learning | Information Theory |
-| Robot Learning | Combinatorial Optimization |
-| Representation Learning | 3D Perception for Autonomous Vehicles |
-| Theoretical Principles of Deep Learning | Design and Simulation of Intelligent Systems |
+| Information Theory | Combinatorial Optimization |
+| Machine Learning | Reinforcement Learning |
+| Representation Learning | Theoretical Principles of Deep Learning |
+| Robot Learning | Towards AGI: Scaling, Emergence, Alignment |
+| Design & Simulation of Intelligent Systems for Industry 4.0 | 3D Perception for Autonomous Vehicles |
+| Natural Language Processing | Bioinstrumentation & Biomedical Microsystems |
+| Quantum Computing | |
 
 ### (ii) Few relevant projects:
 
@@ -76,4 +79,3 @@ Study on opponent-shaping multi-agent reinforcement learning for cooperation in 
 - **[Model-Free vs. Model-Based Reinforcement Learning](https://github.com/O2-CH4/RL_Files):** Studied their main trade-offs and implemented key components of MuZero.
 
 ---
-
