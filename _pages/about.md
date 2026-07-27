@@ -1,6 +1,3 @@
-about
-
-
 ---
 layout: archive
 title: "About"
