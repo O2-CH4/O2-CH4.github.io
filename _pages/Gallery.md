@@ -9,6 +9,56 @@ author_profile: true
 
 
 
+---
+
+## Morocco & United Kingdom — September 2026
+
+---
+
+A few pictures from my recent trip to Morocco and the UK. The landscape in the first picture felt a little like Mars.
+
+---
+
+<img width="1086" height="724" alt="6602AA7A-9188-4F2D-AD34-F81301C96F9B_1_105_c" src="https://github.com/user-attachments/assets/67a0785c-5adb-4db6-a7a9-501faecdf73f" />
+
+---
+<img width="4076" height="3948" alt="E227B3FF-8358-44CF-9B78-68C820429E43_1_201_a" src="https://github.com/user-attachments/assets/b806037f-c60c-452e-a8ac-1f0a4eeed11f" />
+
+---
+
+<img width="768" height="1024" alt="8CFC4974-84D1-44E1-B40E-E3321D18EF85_1_105_c" src="https://github.com/user-attachments/assets/33ea48ca-e18b-4011-9b41-9b8aaa79ccf9" />
+
+---
+
+<img width="1024" height="768" alt="65967E30-0171-4D1D-B247-1DCA24995148_1_105_c" src="https://github.com/user-attachments/assets/19b97ea2-382b-4e08-94a5-d4866afeecb0" />
+
+---
+
+<img width="1024" height="768" alt="AA68DBEA-5BEF-4D27-B074-D0AF823839AE_1_105_c" src="https://github.com/user-attachments/assets/d2190f4d-b9ac-49a8-b031-010dc9b81ba1" />
+
+---
+
+<img width="1024" height="768" alt="D032E2AD-AE95-4926-B7AF-135AE94E1E07_1_105_c" src="https://github.com/user-attachments/assets/23c29e21-6e14-4e87-89e7-ea4c21a7a434" />
+
+---
+
+<img width="1024" height="768" alt="93F420EB-1C41-4A51-9840-28DA119D72A0_1_105_c" src="https://github.com/user-attachments/assets/43245892-a1c1-4929-bf8c-a322f9f12ede" />
+
+---
+
+<img width="2172" height="1448" alt="9C1A795C-66B1-4438-9699-E5E74EE26266_1_102_a" src="https://github.com/user-attachments/assets/eaeef2b9-8453-4faf-9fe7-f0e229b52e6c" />
+
+---
+
+<img width="1024" height="768" alt="2AE373A9-A160-483E-B134-7454A4A9D6BC_1_105_c" src="https://github.com/user-attachments/assets/9cb9d79b-b0de-43cc-b854-02ee0f126fd4" />
+
+---
+
+
+
+
+
+
 
 ---
 
@@ -36,7 +86,7 @@ Rare auroras photographed late at night near Quebec City’s airport. Two days e
 
 
 ---
-## Jupiter Venus Conjunction - Montreal, CA (June 2026)
+## Jupiter & Venus Conjunction - Montreal, CA (June 2026)
 ---
 
 
