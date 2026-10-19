@@ -15,7 +15,7 @@ author_profile: true
 
 ---
 
-A few pictures from my recent trip to Morocco and the UK. Apparently, Morocco also offers a budget version of Mars (1st picture)!
+A few pictures from my recent trip to Morocco and the UK. Apparently, parts of Morocco look a little like Mars (1st pic)!
 
 ---
 
