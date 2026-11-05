@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-## Morocco & United Kingdom — September 2026
+##  September 2026
 
 ---
 
