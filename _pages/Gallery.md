@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-##  September 2026
+##  MA/UK - September 2026
 
 ---
 
@@ -62,7 +62,7 @@ A few pictures from my recent trip to Morocco and the UK. Apparently, parts of M
 
 ---
 
-## Aurora — Quebec, CA — July 2026
+## Aurora — July 2026
 
 ---
 
@@ -86,7 +86,7 @@ Rare auroras photographed late at night near Quebec City’s airport. Two days e
 
 
 ---
-## Jupiter & Venus Conjunction - Montreal, CA (June 2026)
+## Jupiter & Venus - Montreal (June 2026)
 ---
 
 
@@ -103,10 +103,10 @@ Rare auroras photographed late at night near Quebec City’s airport. Two days e
 
 
 ---
-## ICLR — Rio de Janeiro, Brazil (April 2026)
+## ICLR - Brazil (April 2026)
 ---
 
-A few pictures from my stay in Brazil during the ICLR 2026. Because it was my first trip to the Southern Hemisphere, I was able to observe a different portion of the night sky and celestial dynamics that are not visible from the Northern Hemisphere.
+A few pictures from my stay in Brazil (Rio de Janeiro) during the ICLR 2026. Because it was my first trip to the Southern Hemisphere, I was able to observe a different portion of the night sky and celestial dynamics that are not visible from the Northern Hemisphere.
 
 ---
 <img width="1024" height="768" alt="5E127C4F-410C-4833-96F6-A718EF3498A4_1_105_c" src="https://github.com/user-attachments/assets/4f89e123-54f9-4ebc-af48-80b9f136f3fe" />
@@ -135,7 +135,7 @@ A few pictures from my stay in Brazil during the ICLR 2026. Because it was my fi
 
 
 ---
-## MIT New Space & Imagination in Action -- Cambridge, MA, US (April 2026)
+## MIT New Space & Imagination in Action -- Cambridge (April 2026)
 ---
 
 Drove south to attend two consecutive conferences at the MIT Media Lab, the first covering the New Space commercial frontier and the second the future of AI and innovation.
