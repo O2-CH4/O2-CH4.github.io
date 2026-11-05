@@ -11,11 +11,11 @@ author_profile: true
 
 ---
 
-##  Sept 2026
+##  Morocco & the UK | September 2026
 
 ---
 
-A few pictures from my recent trip to Morocco and the UK. Apparently, parts of Morocco look a little like Mars (1st pic)!
+A few photos from my trip to Morocco and the UK. Parts of Morocco look a little like Mars (first photo).
 
 ---
 
