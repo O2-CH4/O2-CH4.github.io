@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-##  September 2026
+##  Sept 2026
 
 ---
 
