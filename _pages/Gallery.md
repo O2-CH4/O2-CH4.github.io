@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-##  MA/UK - September 2026
+##  September 2026
 
 ---
 
